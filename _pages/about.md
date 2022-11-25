@@ -22,6 +22,7 @@ My research interests focus on sport and health management, particularly on cons
 
 ## Updates
 
+* _11/25/2022_: our paper entitled "Predicting transfer fees in professional European football before and during COVID-19" was accepted by European Sport Management Quarterly.
 * _08/04/2022_: I was funded by TUM School of Management as a two-year Academic Training Program Fellow, Technical University of Munich.
 * _04/12/2022_: I was staying as a visiting PhD student for 6 months at the Sport Industry Research Center, Department of Sport and Recreation Management, Temple University, USA, with Prof. Thilo Kunkel and Prof. Daniel Funk.
 * _03/22/2022_: our paper entitled "The effects of a lifestyle intervention supported by the InterWalk smart-phone application on increasing physical activity among persons with type 2 diabetes: A parallel-group, randomized trial" was accepted by JMIR mHealth and uHealth.
