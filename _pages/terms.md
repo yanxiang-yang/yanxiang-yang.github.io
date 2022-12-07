@@ -43,6 +43,7 @@ Updated: 2022-03-31
 * <b>01/2023 - </b>: PhD Course "Web Scraping for Scientists: An Introduction with Python". By Prof. Dr. Jens Förderer (TUM). 22.5 hours.
 * <b>12/2022 - </b>: PhD Course "Qualitative Research". By Prof. Dr. Frank-Martin Belz (TUM). 22.5 hours.
 * <b>10/2022 - 12/2022</b>: PhD Course "Efficient Academic Writing". By Prof. Dr. Chengguang Li (TUM). 22.5 hours.
+* <b>11/28/2022</b>: TUM School of Management Research Fest and Poster Competition. [Poster Certificate](https://padlet.com/tumsom/postercompetition22)
 * <b>05/05/2022</b>: TUM Research Seminar "Value and Complexity in New Ventures". By Prof. Andy Wu (Harvard Business School).
 * <b>11/04/2021 - 12/21/2021</b>: PhD course [Basic Neuroscience for Organisational Research and Economics](https://www.wi.tum.de/wp-content/uploads/2016/09/Syllabus_basicNS2021.pdf). By Dr. Franziska Emmerling (TUM). 22.5 hours.
 * <b>06/28/2021 - 07/29/2021</b>: PhD course [Behavioral and Experimental Economics](https://www.wi.tum.de/wp-content/uploads/2016/09/Syllabus_BehavExpEcon_210329.pdf). By Prof. Michael Kurschilgen (TUM). 22.5 hours.
