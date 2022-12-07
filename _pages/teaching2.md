@@ -9,8 +9,10 @@ author_profile: true
 
 ## Teaching
 
+* <b>Certificate</b>: "Zertifikat Hochschullehre (Certificate for Teaching in Higher Education of Bavarian Universities)". TUM ProfiLehre. 11/2022.
+* <b>2022WS</b>: "Sponsorship-linked Marketing". E-tutor for online course. TUM School of Management. 10/2022 - 03/2023.
 * <b>2021WS</b>: "Sponsorship-linked Marketing". E-tutor for online course. TUM School of Management. 10/2021 - 03/2022.
-* <b>2020WS</b>: "Research Methods in Sport Management with Application of R". B.Sc. Sport Science. TUM Faculty of Sport and Health Science. 11/2020 - 02/2021. 
+* <b>2020WS</b>: "Research Methods in Sport Management with Application of R". B.Sc. Sport Science. Lecture. TUM Faculty of Sport and Health Science. 11/2020 - 02/2021. 
 
 ## Thesis Supervision
 
