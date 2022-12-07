@@ -19,7 +19,7 @@ author_profile: true
 
 ## SMAANZ
 
-* <b>2022</b>: Yiran Su, <b>Yanxiang Yang</b>, and Jason Doyle "The fuel of empowerment: Exploring factors impacting the psychological empowering effect of sport mega-event branding". The annual conference of Management Association of Australia and New Zealand. Melbourne, Australia. 11/2022.
+* <b>2022</b>: Yiran Su, <b>Yanxiang Yang</b>, and Jason Doyle. "The fuel of empowerment: Exploring factors impacting the psychological empowering effect of sport mega-event branding". The annual conference of Management Association of Australia and New Zealand. Melbourne, Australia. 11/2022.
 
 ## Other Conferences
 
