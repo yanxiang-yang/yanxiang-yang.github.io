@@ -14,6 +14,7 @@ Updated: 2022-03-31
 * <b>08/2020</b>:	Student Member of China Management Science Society (Section of Sport Management)
 
 ## Awards
+* <b>2022</b>: Marie Skłodowska-Curie Fellowship (as part of the EU-funded EventRights project)
 * <b>2019</b>: Honors Postgraduate Student, Shanghai Jiao Tong University
 * <b>2017</b>: Outstanding Graduate Student, Shanghai Jiao Tong University
 * <b>2016</b>:	Shanghai Tennis Competition for College Students: Men’s team bronze medal, East China University of Science and Technology Division
