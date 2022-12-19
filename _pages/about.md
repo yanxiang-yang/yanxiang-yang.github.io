@@ -34,6 +34,7 @@ My research interests focus on sport and health management, particularly on cons
 * _05/05/2021_: our paper entitled "Determinants of Fitness App Usage and Moderating Impacts of Education-, Motivation-, and Gamification-Related App Features on Physical Activity Intentions: Cross-sectional Survey Study" was accepted by Journal of Medical Internet Research.
 * _08/04/2020_: our paper entitled "Determinants of physical activity maintenance during the Covid-19 pandemic: a focus on fitness apps" was accepted by Translational Behavioral Medicine.
 * _11/2019_: I started as a PhD student and research assitant at the Chair of Sport and Health Management of TUM.
+* Here is the [Certificate](https://yanxiang-yang.github.io/files/paper5.pdf)
 
 ## Contact
 
