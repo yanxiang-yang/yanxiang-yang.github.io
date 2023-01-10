@@ -1,7 +1,7 @@
 ---
 layout: archive
 # title: "Talks and Presentations"
-permalink: /Conferences/
+permalink: /Talk/
 author_profile: true
 ---
 {% include base_path %}
