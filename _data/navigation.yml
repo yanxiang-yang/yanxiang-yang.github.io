@@ -4,19 +4,19 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talk"
-    url: /talk/    
+  - title: "Conferences"
+    url: /Conferences/    
 
   - title: "Teaching"
     url: /teaching2/    
   
-  - title: "Training"
+  - title: "Awards & Funding"
     url: /terms/
     
   - title: "CV"
     url: /cv2/
     
-  - # title: "Links"
-    # url: /Links/
+  - title: "Miscellaneous"
+    url: /Links/
     
     
