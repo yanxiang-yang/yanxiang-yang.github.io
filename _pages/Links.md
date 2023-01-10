@@ -6,25 +6,56 @@ author_profile: true
 ---
 {% include base_path %}
 
-Below is a personal repository of resources that I find helpful or interesting during my PhD training. All credits are reserved for the original creators. 
+## Membership
+* <b>01/2020</b>: Student Member of European Association for Sport Management (EASM)
+* <b>06/2021</b>: Student Member of North American Society for Sport Management (NASSM)
+* <b>01/2022</b>: dvs-Mentoring Programm (German Society of Sport Science); Mentor: Prof. Sebastian Uhrich, DSHS
 
-## Sport management
-* Textbook: [Contemporary Sport Management, 6th Ed](https://www.human-kinetics.co.uk/9781718202993/contemporary-sport-management/)
-* Textbook: [Sport Consumer Behaviour](https://www.routledge.com/Sport-Consumer-Behaviour-Marketing-Strategies/Funk-Alexandris-McDonald/p/book/9780367552435)
+## Ad-hoc reveiwer
+* European Sport Management Quarterly (1)
+* Journal of Global Sport Management (1, with supervisor)
+* EASM 2022 Conference Abstract (4)
+* Journal of Promotion Management (1, with supervisor)
+* Digital Health (1, with supervisor)
+* Journal of Medical Internet Research (3)
+* JMIR mHealth and uHealth (4)
+* International Journal of Human-Computer Interaction (2)
 
-## Statistical learning and R
-* Book: [An introduction to statistical learning with applications in R](https://www.statlearning.com/)
-* Book: [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
-* Book: [R for Data Science](https://r4ds.had.co.nz/)
-* SEM: [Lavaan](https://lavaan.ugent.be/)
-* R workflow: [Tidyverse](https://www.tidyverse.org/)
+## PhD training activities
 
-## Academic writing
-* Book: [The elements of style](https://www.gutenberg.org/files/37134/37134-h/37134-h.htm)
-* Book: [English for Writing Research Papers](https://link.springer.com/book/10.1007/978-3-319-26094-5)
+### TUM School of Management
+* <b>01/2023 - </b>: PhD Course "Web Scraping for Scientists: An Introduction with Python". By Prof. Dr. Jens Förderer (TUM). 22.5 hours.
+* <b>12/2022 - </b>: PhD Course "Qualitative Research". By Prof. Dr. Frank-Martin Belz (TUM). 22.5 hours.
+* <b>10/2022 - 12/2022</b>: PhD Course "Efficient Academic Writing". By Prof. Dr. Chengguang Li (TUM). 22.5 hours.
+* <b>11/28/2022</b>: TUM School of Management Research Fest and Poster Competition. [Poster Certificate](https://padlet.com/tumsom/postercompetition22)
+* <b>05/05/2022</b>: TUM Research Seminar "Value and Complexity in New Ventures". By Prof. Andy Wu (Harvard Business School).
+* <b>11/04/2021 - 12/21/2021</b>: PhD course [Basic Neuroscience for Organisational Research and Economics](https://www.wi.tum.de/wp-content/uploads/2016/09/Syllabus_basicNS2021.pdf). By Dr. Franziska Emmerling (TUM). 22.5 hours.
+* <b>06/28/2021 - 07/29/2021</b>: PhD course [Behavioral and Experimental Economics](https://www.wi.tum.de/wp-content/uploads/2016/09/Syllabus_BehavExpEcon_210329.pdf). By Prof. Michael Kurschilgen (TUM). 22.5 hours.
+* <b>05/10/2021 - 06/14/2021</b>: PhD course [Psychological Theories](https://www.wi.tum.de/wp-content/uploads/2016/09/Syllabus_Psychological-Theories_Fall2021.pdf). By Prof. Claudia Peus (TUM). 22.5 hours.
+* <b>10/2020 – 02/2021</b>: PhD Course [Mastering the Review Process: Writing of and Responding to Peer-Reviews](https://www.wi.tum.de/wp-content/uploads/2016/09/Syllabus_Mastering-the-Review-Process_update.pdf). By Prof. Dr. Jens Förderer (TUM). 22.5 hours.
+* <b>10/2020 – 02/2021</b>: PhD Course [Economics of Aging](https://www.wi.tum.de/wp-content/uploads/2016/09/Syllabus_Economics_of_Aging.pdf). By Prof. Axel Börsch-Supan, Max Planck Institute for Social Law and Social Policy. 22.5 hours.
+* <b>07/16/2020</b>: Research Seminar "Recalls and innovation: Own and competitor firm response". By Dr. Ariel D. Stern (Harvard Business School).
+* <b>07/02/2020</b>: Research Seminar "Freemium Killer Apps: Business Model Competition and the performance of digital PC games on steam". By Dr. Joost Rietveld (UCL).
+* <b>05/20/2020</b>: Webinar "Research Data Management". By Hedwig Bäcker (TUM).
 
-## Survey
-* Qualtrics
-* Amazon MTurk
-* Credamo
 
+### TUM Faculty of Sport and Health Sciences
+* <b>05/11/2022</b>: Lecture "Grasping the virtual world". By Dr. Gavin Buckingham (University of Exeter, UK).
+* <b>03/23/2022</b>: Health Science Talks "The potential of quasi-experimental designs in health research: concepts and applied examples". By Prof. Michael Laxy  (TUM).
+* <b>01/26/2022</b>: Health Science Talks "P-Values: Common Misconceptions and Alternatives". By Dr. Gunther Schauberger (TUM).
+* <b>08/12/2021</b>: Doctoral Colloquium "tegrating Nutrition and Exercise Across the Physical Activity Spectrum: From Metabolic Health to Athletic Performance". By Prof. Karsten Köhler (TUM).
+* <b>07/21/2021</b>: Doctoral Colloquium "Educating Children and Adolescents towards an Active and Healthy Lifestyle". By Prof. Yolanda Demetriou (TUM).
+* <b>06/03/2020</b>: Doctoral Colloquium "Shared Leadership as an Emergent Team Phenomenon in High Performance Sports Teams". By Christopher Mächel (TUM).
+* <b>11/2019</b>:	Workshop "Latent Class Analysis". By Dr. Jörg Heine (TUM).
+* <b>11/21/2019</b>: Doctoral Colloquium "Fitness tracker: yet another consumer trend or valid tool for assessment of physical activity and health status in health care". By Dr. Alexander Tallner (Univ. Erlangen–Nuremberg).
+
+### External
+* <b>05/19/2022</b>: SMAANZ Teaching & Learning Webinar: "Digitally assessing sport consumer experiences: a sport marketing assessment". By Adam Karg (Swinburne). Organized by SMAANZ.
+* <b>05/18/2022</b>: NASSM Student (and Early Career) Engagement Initiative "Building a Research Program as an Early Career Researcher". Organized by NASSM.
+* <b>10/21/2021</b>: Webinar "From behavior change theory to interventions and their implementation - what is needed to promote physical activity?". Organized by Prof. Claudio Nigg, University of Bern.
+* <b>03/15/2021</b>: Kolloquium "Precision behavioral interventions to promote physical activity". By Prof. David Conroy (Penn State). Organized by University of Bern.
+* <b>09/2020</b>: Seminar Series Weekly "Consumer Behavior, Marketing and Society". By Katherine Milkman (Wharton) etc. Organized by Penn-Wharton Behavior Change for Good Initiative.
+* <b>08/14/2020</b>: Virtual Workshop "Grant Writing Workshop in Sport Management". By Tracy Taylor, Heath McDonald (RMIT). Organized by SMAANZ.
+* <b>08/03/2020</b>: Virtual Workshop "Advanced Measurement and Research Design". By Charles Hofacker (Loyola Marymount University). Organized by American Marketing Association.
+* <b>06/15/2020</b>: International Conference "Prospective Physical Activity, Sitting and Sleep consortium (ProPASS) 3rd Annual Meeting (Zoom)". Organized by University of Sydney.
+* <b>02/19/2020</b>: Webinar "Behavior Change Guide for Local Government & Partners". By Dr. Susan Michie. Organized by UCL Centre for Behavior Change and Public Health England.
