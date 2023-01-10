@@ -13,10 +13,9 @@ main:
   - title: "Awards & Funding"
     url: /terms/
     
-  - title: "CV"
-    url: /cv2/
-    
   - title: "Miscellaneous"
     url: /Links/
     
+  - title: "CV"
+    url: /cv2/
     
