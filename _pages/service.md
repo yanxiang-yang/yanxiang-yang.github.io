@@ -7,8 +7,17 @@ author_profile: true
 {% include base_path %}
 
 
-## Teaching
+## Membership
+* <b>01/2020</b>: Student Member of European Association for Sport Management (EASM)
+* <b>06/2021</b>: Student Member of North American Society for Sport Management (NASSM)
+* <b>01/2022</b>: dvs-Mentoring Programm (German Society of Sport Science); Mentor: Prof. Sebastian Uhrich, DSHS
 
-* <b>Certificate</b>: "Zertifikat Hochschullehre (Certificate for Teaching in Higher Education of Bavarian Universities)". TUM ProfiLehre. 11/2022.
-* <b>2022WS</b>: "Sponsorship-linked Marketing". E-tutor for online course. TUM School of Management. 10/2022 - 03/2023.
-* <b>2021WS</b>: "Sponsorship-linked Marketing". E-tutor for online course. TUM School of Management. 10/2021 - 03/2022.
+## Ad-hoc reveiwer
+* European Sport Management Quarterly (1)
+* Journal of Global Sport Management (1, with supervisor)
+* EASM 2022 Conference Abstract (4)
+* Journal of Promotion Management (1, with supervisor)
+* Digital Health (1, with supervisor)
+* Journal of Medical Internet Research (3)
+* JMIR mHealth and uHealth (4)
+* International Journal of Human-Computer Interaction (2)
