@@ -12,6 +12,9 @@ main:
   
   - title: "Awards & Funding"
     url: /terms/
+  
+  - title: "Service"
+    url: /service/
     
   - title: "Miscellaneous"
     url: /Links/
