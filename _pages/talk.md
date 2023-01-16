@@ -15,6 +15,7 @@ author_profile: true
 
 ## NASSM
 
+* <b>2023</b>: <b>Yanxiang Yang</b>, Keshav Gupta, Thilo Kunkel, Daniel Funk, & Joerg Koenigstorfer. "Gamification implementations in professional team sport apps". The North American Society for Sport Management Conference. Montréal, Canada. 05/31/2023 - 06/03/2023. 20-min oral presentation.
 * <b>2022</b>: <b>Yanxiang Yang</b> and Joerg Koenigstorfer. "Accuracy of a Prediction Model of Transfer Fees for European Soccer Players Traded during the COVID-19 Pandemic". The North American Society for Sport Management Conference. Atlanta, GA, USA. 06/01/2022 - 06/04/2022. 20-min oral presentation.
 
 ## SMAANZ
