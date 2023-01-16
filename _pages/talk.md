@@ -26,7 +26,7 @@ author_profile: true
 
 * <b>2022</b>: <b>Yanxiang Yang</b> and Joerg Koenigstorfer. "Predicting transfer fees in European professional football before and during COVID-19". The 11. Innsbrucker Sportökonomie und -Management Symposium (Innsbrucker Sport Economics and Management Symposiums). University of Innsbruck, Innsbruck, Austria. 03/03/2022. 20-min oral presentation.
 * <b>2021</b>: <b>Yanxiang Yang</b> and Joerg Koenigstorfer. "Effects of gamified smartphone apps on physical activity: A systematic review and meta-analysis". The 10. Innsbrucker Sportökonomie und -Management Symposium (Innsbrucker Sport Economics and Management Symposiums), Virtual. 03/04/2021. 20-min oral presentation.
-* <b>2021</b>: <b>Yanxiang Yang</b>. ["Gamification in smartphone apps for physical activity"](https://www.mpisoc.mpg.de/veranstaltungen/detail/event/mea-seminar/). Munich Center for Economics of Aging, Max Planck Institute for Social Law and Social Policy. 01/20/2021. 40-min oral presentation.
+* <b>2021</b>: <b>Yanxiang Yang</b>. ["Gamification in smartphone apps for physical activity"](https://www.mpisoc.mpg.de/veranstaltungen/detail/event/mea-seminar/). Munich Center for Economics of Aging, Max Planck Institute for Social Law and Social Policy. 01/20/2021. 30-min oral presentation.
 
 
 
