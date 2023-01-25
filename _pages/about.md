@@ -23,7 +23,7 @@ My research interests focus on sport and health management. My main research lin
 ## Updates
 
 * _12/06/2022_: I received the Certificate for Teaching in Higher Education of Bavarian Universities.
-* _11/30/2022_: I received the [Certificate of Marie Skłodowska-Curie Fellowship](https://yanxiang-yang.github.io/files/eucertificate.pdf) (as part of the EU-funded EventRights project).
+* _11/30/2022_: I received the Certificate of Marie Skłodowska-Curie Fellowship (as part of the EU-funded EventRights project).
 * _11/25/2022_: our paper entitled "Predicting transfer fees in professional European football before and during COVID-19 using machine learning" was accepted by European Sport Management Quarterly.
 * _08/04/2022_: I was funded by TUM School of Management as a two-year Academic Training Program Fellow, Technical University of Munich.
 * _04/12/2022_: I have been staying as a visiting PhD student for 6 months at the Sport Industry Research Center, Department of Sport and Recreation Management, Temple University, USA, with Prof. Thilo Kunkel and Prof. Daniel Funk.
