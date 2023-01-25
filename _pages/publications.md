@@ -21,4 +21,4 @@ author_profile: true
 
 ## Work in Progress
 
-1. <b>Yanxiang Yang</b>, Terri Byers, and Joerg Koenigstorfer (Under Review in JSM): Performance of Not-for-profit Sport Clubs: A Machine Learning Approach.
+1. <b>Yanxiang Yang</b>, Terri Byers, and Joerg Koenigstorfer (Under Review in JSM): A machine learning approach to exploring linearly and non-linearly related factors of the performance of not-for-profit sport clubs in Canada.
