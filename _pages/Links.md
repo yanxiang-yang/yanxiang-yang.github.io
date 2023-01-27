@@ -26,6 +26,8 @@ author_profile: true
 
 
 ### TUM Faculty of Sport and Health Sciences
+* <b>01/27/2023</b>: Key Lecture "Circadian Rhythms, Health and Disease". by Prof. Dr. Juleen R. Zierath (KI and University of Copenhagen).
+* <b>11/23/2022</b>: Health Science Talks "Children, adolescents and the social determinants of health. Comparative findings from the HBSC study". By Prof. Matthias Richter (TUM).
 * <b>05/11/2022</b>: Lecture "Grasping the virtual world". By Dr. Gavin Buckingham (University of Exeter, UK).
 * <b>03/23/2022</b>: Health Science Talks "The potential of quasi-experimental designs in health research: concepts and applied examples". By Prof. Michael Laxy  (TUM).
 * <b>01/26/2022</b>: Health Science Talks "P-Values: Common Misconceptions and Alternatives". By Dr. Gunther Schauberger (TUM).
@@ -36,6 +38,7 @@ author_profile: true
 * <b>11/21/2019</b>: Doctoral Colloquium "Fitness tracker: yet another consumer trend or valid tool for assessment of physical activity and health status in health care". By Dr. Alexander Tallner (Univ. Erlangen–Nuremberg).
 
 ### External
+* <b>06/20/2022</b>: Foregrounding a Rights-Based Agenda for Sport Events: Insights from Research and Practice. Organized by EventRights Project.
 * <b>05/19/2022</b>: SMAANZ Teaching & Learning Webinar: "Digitally assessing sport consumer experiences: a sport marketing assessment". By Adam Karg (Swinburne). Organized by SMAANZ.
 * <b>05/18/2022</b>: NASSM Student (and Early Career) Engagement Initiative "Building a Research Program as an Early Career Researcher". Organized by NASSM.
 * <b>10/21/2021</b>: Webinar "From behavior change theory to interventions and their implementation - what is needed to promote physical activity?". Organized by Prof. Claudio Nigg, University of Bern.
