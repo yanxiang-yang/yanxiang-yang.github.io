@@ -30,6 +30,7 @@ My research interests focus on sport and health management. My main research lin
 * _03/22/2022_: our paper entitled "The effects of a lifestyle intervention supported by the InterWalk smart-phone application on increasing physical activity among persons with type 2 diabetes: A parallel-group, randomized trial" was accepted by JMIR mHealth and uHealth.
 * _01/27/2022_: I joined the "dvs-Mentoring Programm for Young Scientists" of the German Society of Sport Science, with Prof. Sebastian Uhrich from German Sport University as my mentor.
 * _10/20/2021_: our paper entitled "Effects of Gamified Smartphone Applications on Physical Activity: A Systematic Review and Meta-Analysis" was accepted by American Journal of Preventive Medicine.
+* _09/08/2021_: I received the Gewährung einer Leistungsprämie, Präsident (Presidential annual performance prize) of TUM.
 * _04/01/2021_: our paper entitled "Keeping it Real or Bridging the Gap? Brand Positioning of US Sport Teams in Germany and China" was accepted by Journal of Sport Management.
 * _05/05/2021_: our paper entitled "Determinants of Fitness App Usage and Moderating Impacts of Education-, Motivation-, and Gamification-Related App Features on Physical Activity Intentions: Cross-sectional Survey Study" was accepted by Journal of Medical Internet Research.
 * _08/04/2020_: our paper entitled "Determinants of physical activity maintenance during the Covid-19 pandemic: a focus on fitness apps" was accepted by Translational Behavioral Medicine.
