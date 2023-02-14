@@ -14,7 +14,7 @@ author_profile: true
 
 ## Ad-hoc reveiwer
 * European Sport Management Quarterly (1)
-* Journal of Global Sport Management (1, with supervisor)
+* Journal of Global Sport Management (1)
 * EASM 2022 Conference Abstract (4)
 * Journal of Promotion Management (1, with supervisor)
 * Digital Health (1, with supervisor)
