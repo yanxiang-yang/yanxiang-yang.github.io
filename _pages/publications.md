@@ -19,6 +19,3 @@ author_profile: true
 2. Yue Xue, <b>Yanxiang Yang</b>, and Tao Huang (2019): Effects of chronic exercise interventions on executive function among children and adolescents: a systematic review with meta-analysis. <i>British Journal of Sports Medicine</i>. 53(22): P1397-1404. [DOI](https://bjsm.bmj.com/content/53/22/1397.abstract) ([In SJTU News 上海交通大学首页新闻](https://news.sjtu.edu.cn/jdzh/20190314/97425.html))
 1. <b>Yanxiang Yang</b>, Moritz Schumann, Shenglong Le, and Shulin Cheng (2018): Reliability and validity of a new accelerometer-based device for detecting physical activities and energy expenditure. <i>PeerJ</i>. 6: e5775. [DOI](https://peerj.com/articles/5775/)
 
-## Work in Progress
-
-1. <b>Yanxiang Yang</b>, Terri Byers, and Joerg Koenigstorfer (Under Review in JSM): A machine learning approach to exploring linearly and non-linearly related factors of the performance of not-for-profit sport clubs in Canada.
