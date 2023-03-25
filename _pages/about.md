@@ -39,9 +39,9 @@ My research interests focus on sport and health management. My main research lin
 
 ## Contact
 
-* <b>Email</b>: yanxiang.yang@tum.de
+* <b>Email</b>: yanxiang.yang(at)tum.de
 * <b>Phone</b>: +49 089 289 24569
-* <b>Address</b>: Campus D Uptown Munich, Georg-Brauchle-Ring 60/62, 80992 Munich, Germany
+* <b>Address</b>: Georg-Brauchle-Ring 60/62, 80992 Munich
 
 
 
