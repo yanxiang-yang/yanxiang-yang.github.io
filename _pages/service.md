@@ -14,10 +14,16 @@ author_profile: true
 
 ## Ad-hoc reveiwer
 * European Sport Management Quarterly (1)
-* Journal of Global Sport Management (1)
+* International Journal of Sports Marketing and Sponsorship (1)
+* Journal of Global Sport Management (1, with supervisor)
+* Applied Economics (1)
+* Marketing ZFP - Journal of Research and Management (1)
 * EASM 2022 Conference Abstract (4)
 * Journal of Promotion Management (1, with supervisor)
 * Digital Health (1, with supervisor)
-* Journal of Medical Internet Research (3)
+* Translational Behavioral Medicine (1, with supervisor)
+* Journal of Medical Internet Research (4)
 * JMIR mHealth and uHealth (4)
 * International Journal of Human-Computer Interaction (2)
+* International Journal of Human-Computer Studies (1, with supervisor)
+
