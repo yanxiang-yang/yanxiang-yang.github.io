@@ -9,6 +9,7 @@ author_profile: true
 
 ## EASM
 
+* <b>2023</b>: <b>Yanxiang Yang</b> and Joerg Koenigstorfer. “Physical activity intentions depending on individual ranks in smartphone app leaderboards”. 31st European Association for Sport Management Conference, Belfast, North Ireland. 09/012/2023 - 09/05/2023. Oral presentation.
 * <b>2022</b>: <b>Yanxiang Yang</b>, Terri Byers, and Joerg Koenigstorfer. “Determinants of the Performance of Not-for-profit Sport Clubs: A Machine Learning Approach”. 30th European Sport Management Conference, Innsbruck, Austria. 09/04/2022 - 09/08/2022. 20-min oral presentation.
 * <b>2021</b>: <b>Yanxiang Yang</b> and Joerg Koenigstorfer. “Determinants of transfer fees in professional European soccer”. 29th European Sport Management Conference, Virtual. 09/29/2021. 20-min oral presentation.
 * <b>2020</b>: <b>Yanxiang Yang</b> and Joerg Koenigstorfer. "Pathways of how fitness apps increase physical activity". 28th European Sport Management Conference, Virtual. 09/21/2020 - 09/25/2020. 20-min oral presentation.
