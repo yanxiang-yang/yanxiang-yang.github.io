@@ -16,9 +16,10 @@ main:
   - title: "Service"
     url: /service/
     
+  - title: "Tennis"
+    url: /cv2/
+    
   - title: "Miscellaneous"
     url: /Links/
-    
-  - title: "CV"
-    url: /cv2/
+
     
