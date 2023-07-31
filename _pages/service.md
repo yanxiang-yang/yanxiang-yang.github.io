@@ -20,7 +20,7 @@ author_profile: true
 * Marketing ZFP - Journal of Research and Management (1)
 * EASM 2022 Conference Abstract (4)
 * Journal of Promotion Management (1)
-* Digital Health (1, with supervisor)
+* Digital Health (1)
 * Translational Behavioral Medicine (1)
 * Journal of Medical Internet Research (4)
 * JMIR mHealth and uHealth (4)
