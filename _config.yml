@@ -88,7 +88,7 @@ author:
   pubmed           : # "https://www.sg.tum.de/en/mgt/team/research-assistants/personal-information-yanxiang-yang/"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=SJd5HBoAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Yanxiang-Yang"
+  researchgate     : # "https://www.researchgate.net/profile/Yanxiang-Yang"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-9478-6224"
+  orcid            : # "https://orcid.org/0000-0001-9478-6224"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
