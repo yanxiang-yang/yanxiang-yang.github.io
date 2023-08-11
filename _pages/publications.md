@@ -7,6 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+## Research Interests
+My research focuses on sport and health management. My main research line investigates the role of gamification and mHealth in consumers' sport and health behaviors. I am also interested in topics of sports analytics (particularly tennis and football). I use multiple research methodologies including quantitative (e.g., structural equation modeling, machine learning, web scraping, meta-analysis) and qualitative (e.g., semi-structured interview, documentary) approach. Our work has appeared in such renowned journals as European Sport Management Quarterly, Journal of Sport Management, American Journal of Preventive Medicine, British Journal of Sports Medicine, Event Management, among others. I am an R user. My research keywords are:
+
+* Sport and Health Management
+* Gamification & mHealth
+* Sports Analytics (Tennis, football)
+
 
 ## Journal Publications
 
