@@ -1,15 +1,15 @@
 # main links links
 main:
     
-  - title: "Publications"
+  - title: "Research"
     url: /publications/
 
-  - title: "Conferences"
-    url: /Conferences/    
-
-  - title: "Teaching"
+  - title: "Teaching & Service"
     url: /teaching2/    
   
+  - title: "Conferences"
+    url: /Conferences/ 
+    
   - title: "Awards"
     url: /terms/
   
