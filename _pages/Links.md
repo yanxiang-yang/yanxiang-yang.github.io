@@ -22,7 +22,7 @@ author_profile: true
 
 ## PhD training activities
 
-#### TUM School of Management
+### TUM School of Management
 * <b>01/2023 - </b>: PhD Course "Web Scraping for Scientists: An Introduction with Python". By Prof. Dr. Jens Förderer (TUM). 22.5 hours.
 * <b>12/2022 - </b>: PhD Course "Qualitative Research". By Prof. Dr. Frank-Martin Belz (TUM). 22.5 hours.
 * <b>10/2022 - 12/2022</b>: PhD Course "Efficient Academic Writing". By Prof. Dr. Chengguang Li (TUM). 22.5 hours.
@@ -37,7 +37,7 @@ author_profile: true
 * <b>07/02/2020</b>: Research Seminar "Freemium Killer Apps: Business Model Competition and the performance of digital PC games on steam". By Dr. Joost Rietveld (UCL).
 * <b>05/20/2020</b>: Webinar "Research Data Management". By Hedwig Bäcker (TUM).
 
-#### TUM Faculty of Sport and Health Sciences
+### TUM Faculty of Sport and Health Sciences
 * <b>01/27/2023</b>: Key Lecture "Circadian Rhythms, Health and Disease". by Prof. Dr. Juleen R. Zierath (KI and University of Copenhagen).
 * <b>11/23/2022</b>: Health Science Talks "Children, adolescents and the social determinants of health. Comparative findings from the HBSC study". By Prof. Matthias Richter (TUM).
 * <b>05/11/2022</b>: Lecture "Grasping the virtual world". By Dr. Gavin Buckingham (University of Exeter, UK).
@@ -49,7 +49,7 @@ author_profile: true
 * <b>11/2019</b>:	Workshop "Latent Class Analysis". By Dr. Jörg Heine (TUM).
 * <b>11/21/2019</b>: Doctoral Colloquium "Fitness tracker: yet another consumer trend or valid tool for assessment of physical activity and health status in health care". By Dr. Alexander Tallner (Univ. Erlangen–Nuremberg).
 
-#### External
+### External
 * <b>06/20/2022</b>: Foregrounding a Rights-Based Agenda for Sport Events: Insights from Research and Practice. Organized by EventRights Project.
 * <b>05/19/2022</b>: SMAANZ Teaching & Learning Webinar: "Digitally assessing sport consumer experiences: a sport marketing assessment". By Adam Karg (Swinburne). Organized by SMAANZ.
 * <b>05/18/2022</b>: NASSM Student (and Early Career) Engagement Initiative "Building a Research Program as an Early Career Researcher". Organized by NASSM.
