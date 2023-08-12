@@ -20,7 +20,7 @@ author_profile: true
 * <b>09/2016 - 06/2019</b>:	First-class Scholarship for Academic Excellence (3 consecutive years), Shanghai Jiao Tong University. 54,000 RMB (18,000*3)
 
 
-## PhD training activities
+## PhD training activities @TUM
 
 ### TUM School of Management
 * <b>01/2023 - </b>: PhD Course "Web Scraping for Scientists: An Introduction with Python". By Prof. Dr. Jens Förderer (TUM). 22.5 hours.
