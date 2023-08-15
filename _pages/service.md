@@ -13,7 +13,7 @@ author_profile: true
 * <b>01/2022</b>: dvs-Mentoring Programm (German Society of Sport Science); Mentor: Prof. Sebastian Uhrich, DSHS
 
 ## Ad-hoc Reveiwer
-### Sport management and economics
+### Sport management & economics
 * European Sport Management Quarterly (1)
 * International Journal of Sports Marketing and Sponsorship (1)
 * Journal of Global Sport Management (1)
