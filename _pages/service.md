@@ -21,6 +21,7 @@ author_profile: true
 * Marketing ZFP - Journal of Research and Management (1)
 * EASM 2022 Conference Abstract (4)
 * Journal of Promotion Management (1)
+
 ### mHealth, gamification, physical activity
 * Digital Health (1)
 * Translational Behavioral Medicine (1)
