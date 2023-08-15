@@ -8,6 +8,7 @@ author_profile: true
 
 ## Awards, Funding, & Scholarships
 * <b>11/2019 - </b>: Research Associate (University staff contract, E13 TV-L), Technical University of Munich.
+* <b>11/2022</b>: Certificate: “Zertifikat Hochschullehre (Certificate for Teaching in Higher Education of Bavarian Universities)”. TUM ProfiLehre.
 * <b>10/2022 - </b>: Academic Training Program Fellow, TUM School of Management, Technical University of Munich. 1,500 EUR per month for 2 years.
 * <b>2022</b>: Marie Skłodowska-Curie Fellowship (as part of the EU-funded EventRights project)
 * <b>04/2022 - 10/2022</b>: EU Horizon 2020 programme EventRights, Research and Innovation Staff Exchange. 12,600 EUR mobility funding and 10,800 EUR research funding (PI: Prof. Jörg Königstorfer).
