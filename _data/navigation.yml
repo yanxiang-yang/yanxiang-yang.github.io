@@ -4,8 +4,11 @@ main:
   - title: "Research"
     url: /publications/
 
-  - title: "Teaching & Service"
+  - title: "Teaching"
     url: /teaching2/    
+
+  - title: "Service"
+    url: /teaching2/ 
     
   - title: "Tennis"
     url: /cv2/
