@@ -12,7 +12,11 @@ author_profile: true
 * <b>10/2022 - </b>: Academic Training Program Fellow, TUM School of Management, Technical University of Munich. 1,500 EUR/month.
 * <b>2022</b>: Marie Skłodowska-Curie [Fellowship](https://yanxiang-yang.github.io/files/eucertificate.pdf) (as part of the EU-funded EventRights project)
 * <b>04/2022 - 10/2022</b>: EU Horizon 2020 programme EventRights, Research and Innovation Staff Exchange. 12,600 EUR mobility funding and 10,800 EUR research funding (PI: Prof. Jörg Königstorfer).
-* <b>09/2021</b>: Gewährung einer leistungsprämie (Der Präsident), Technical University of Munich. 2,335 EUR.
+* <b>09/2021</b>: Presidential performance awards (Gewährung einer leistungsprämie, Der Präsident), Technical University of Munich. 2,335 EUR.
+* <b>2019/10</b>:	Research Associate (Fully Funded PhD Position), Techincal University of Munich [Accepted]
+* <b>2019/09</b>: Fully Funded PhD Scholarship, The University of Queensland, Australia [Declined]
+* <b>2019/08</b>:	Fully Funded PhD Scholarship, Deakin University, Australia [Declined]
+* <b>2019/08</b>:	Research Associate (Fully Funded PhD Position), University of Jyväskylä, Finland [Declined]
 * <b>2019</b>: Honors Postgraduate Student, Shanghai Jiao Tong University
 * <b>09/2018 - 03/2019</b>: The long-term Danish Government Scholarships under Cultural Agreements with China Scholarship Council. 60,000 DKK
 * <b>05/2018 - 08/2018</b>: DAAD German short-term scholarships for master students. 3,100 EUR
