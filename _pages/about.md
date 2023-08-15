@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-## excerpt: "About"
+## excerpt: "ABOUT"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ I am currently a PhD candidate and research associate at [Chair of Sport and Hea
 I earned my bachelor in Management at [Shanghai University](https://www.shu.edu.cn/) in 2013 and a master in Sport Science at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2019, supervised by Professor [Sulin Cheng](https://www.researchgate.net/profile/Sulin-Cheng). During my Masters' degree, I spent 3 months at [German Sport University Cologne](https://www.dshs-koeln.de/) with Dr. [Moritz Schumann](https://fis.dshs-koeln.de/portal/en/persons/moritz-schumann(7217bdac-0a82-4a1d-aef5-42354c380b80).html), granted by [DAAD](https://www.daad.org.cn/zh/find-funding/funding-programmes-in-germany/master-short-term-scholarship). I also spent 6 months at [Centre for Physical Activity Research](https://aktivsundhed.dk/da/) of [University of Copenhagen](https://www.ku.dk/english/) with Dr. [Mathias Ried-Larsen](https://aktivsundhed.dk/da/om/personer/item/mathias-ried-larsen) and Professor [Bente Klarlund Pedersen](https://scholar.google.dk/citations?user=iVihIzAAAAAJ&hl=da), jointly granted by [CSC and Danish Government Scholarship](https://www.csc.edu.cn/chuguo). During my PhD, I stayed at the [Sport Industry Research Center](https://sthm.temple.edu/sport-industry-research-center/) of Temple University USA for 6 months, granted by a Marie Skłodowska-Curie Fellowship (Research and Innovation Staff Exchange Funding of [EventRights](http://eventrights.net/)). I am also very fortunate to be advised by Professors [Sebastian Uhrich](https://fis.dshs-koeln.de/portal/de/persons/sebastian-uhrich(d54fc935-c4f4-4231-8196-8896b3e4c01a).html), [Tim Pawlowski](https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/sportwissenschaft/institut/arbeitsbereiche/sportoekonomik-sportmanagement-und-sportpublizistik/team/prof-dr-tim-pawlowski/), [Thilo Kunkel](https://sthm.temple.edu/faculty-and-staff/profile/?smid=1782), and [Daniel Funk](https://sthm.temple.edu/faculty-and-staff/profile/?smid=1771) on particular projects. 
 
 
-## Updates
+## UPDATES
 
 * _03/10/2023_: our paper entitled "The State of Play between Managing Major Sport Events and Human Rights: A Scoping Review" was accepcted by Event Management.
 * _12/06/2022_: I received the Certificate for Teaching in Higher Education of Bavarian Universities.
@@ -30,7 +30,7 @@ I earned my bachelor in Management at [Shanghai University](https://www.shu.edu.
 * _08/04/2020_: our paper entitled "Determinants of physical activity maintenance during the Covid-19 pandemic: a focus on fitness apps" was accepted by Translational Behavioral Medicine.
 * _11/2019_: I started as a PhD student and research assitant at the Chair of Sport and Health Management of TUM.
 
-## Contact
+## CONTACT
 
 * <b>Email</b>: yanxiang.yang(at)tum.de
 * <b>Phone</b>: +49 089 289 24569
