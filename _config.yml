@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yanxiang Yang"
 title_separator          : "-"
-name                     : &name "Yanxiang Yang"
+name                     : &name "Yanxiang Yang 杨彦祥"
 description              : &description "PhD candidate in Sport and Health Management"
 url                      : https://yanxiang-yang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yanxiang Yang 杨彦祥"
+  name             : "Yanxiang Yang"
   avatar           : "profileyy2.png"
   bio              : "PhD candidate in Sport and Health Management"
   location         : "Munich, Germany"
