@@ -7,15 +7,14 @@ author_profile: true
 {% include base_path %}
 
 
-## Teaching
-
-* <b>Certificate</b>: "Zertifikat Hochschullehre (Certificate for Teaching in Higher Education of Bavarian Universities)". TUM ProfiLehre. 11/2022.
+## Teaching @TUM
+* <b>2023WS</b>: "Entrepreneurship and Management in Sport". Lecture. TUM School of Management.
+* <b>2023SS</b>: "Sponsorship-linked Marketing". Lecture for online course. TUM School of Management. 04/2023 - 08/2023.
 * <b>2022WS</b>: "Sponsorship-linked Marketing". Lecture for online course. TUM School of Management. 10/2022 - 03/2023. [Evaluation](https://yanxiang-yang.github.io/files/WS22.pdf)
 * <b>2021WS</b>: "Sponsorship-linked Marketing". Lecture for online course. TUM School of Management. 10/2021 - 03/2022.
 * <b>2020WS</b>: "Research Methods in Sport Management with Application of R". B.Sc. Sport Science. Lecture. TUM Faculty of Sport and Health Science. 11/2020 - 02/2021. [Evaluation](https://yanxiang-yang.github.io/files/WS21.pdf)
 
-## Thesis Supervision
-
+## Thesis Supervision @TUM
 * <b>2023SS</b>: Patrick Pougy Dauelsberg: "The development and feasibility of an AI-based fitness application". Master Thesis of Management Science. TUM School of Management. 08/2023 - 12/2023.
 * <b>2023SS</b>: Elias Altmann: "The impact of app-based leaderboards on healthy nutritional behavior: An investigation of GYM members". Bachelor Thesis of Health Science. TUM Faculty of Sport and Health Sciences. 05/2023 - 08/2023.
 * <b>2022WS</b>: Alexander Buchmann: "A Team App and Instagram Analysis of Gamification Elements of Bundesliga Teams". Master Thesis of Management Science. TUM School of Management. 02/2023 - 08/2023.
@@ -41,8 +40,6 @@ author_profile: true
 * Translational Behavioral Medicine (1)
 * Journal of Medical Internet Research (4)
 * JMIR mHealth and uHealth (4)
-* International Journal of Human-Computer Interaction (3)
+* International Journal of Human-Computer Interaction (4)
 * International Journal of Human-Computer Studies (1)
-
-
 
