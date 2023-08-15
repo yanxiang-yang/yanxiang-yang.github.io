@@ -14,15 +14,15 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Calibri", "Lucida Grande", Calibri, sans-serif;
+$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Georgia", "Lucida Grande", Calibri, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
-$helvetica                  : Calibri, "Calibri", Calibri, sans-serif;
+$helvetica                  : Georgia, "Georgia", Calibri, sans-serif;
 
 /* serif typefaces */
-$georgia                    : Calibri, serif;
+$georgia                    : Georgia, serif;
 $times                      : Times, serif;
 $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
