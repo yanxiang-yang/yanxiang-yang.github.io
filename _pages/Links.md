@@ -32,11 +32,11 @@ author_profile: true
 * <b>10/2022 - 12/2022</b>: PhD Course "Efficient Academic Writing". By Prof. Dr. Chengguang Li (TUM). 22.5 hours.
 * <b>11/28/2022</b>: TUM School of Management Research Fest and Poster Competition. [Certificate](https://padlet.com/tumsom/postercompetition22)
 * <b>05/05/2022</b>: TUM Research Seminar "Value and Complexity in New Ventures". By Prof. Andy Wu (Harvard Business School).
-* <b>11/04/2021 - 12/21/2021</b>: PhD course [Basic Neuroscience for Organisational Research and Economics](https://www.wi.tum.de/wp-content/uploads/2016/09/Syllabus_basicNS2021.pdf). By Dr. Franziska Emmerling (TUM). 22.5 hours.
-* <b>06/28/2021 - 07/29/2021</b>: PhD course [Behavioral and Experimental Economics](https://www.wi.tum.de/wp-content/uploads/2016/09/Syllabus_BehavExpEcon_210329.pdf). By Prof. Michael Kurschilgen (TUM). 22.5 hours.
-* <b>05/10/2021 - 06/14/2021</b>: PhD course [Psychological Theories](https://www.wi.tum.de/wp-content/uploads/2016/09/Syllabus_Psychological-Theories_Fall2021.pdf). By Prof. Claudia Peus (TUM). 22.5 hours.
-* <b>10/2020 – 02/2021</b>: PhD Course [Mastering the Review Process: Writing of and Responding to Peer-Reviews](https://www.wi.tum.de/wp-content/uploads/2016/09/Syllabus_Mastering-the-Review-Process_update.pdf). By Prof. Dr. Jens Förderer (TUM). 22.5 hours.
-* <b>10/2020 – 02/2021</b>: PhD Course [Economics of Aging](https://www.wi.tum.de/wp-content/uploads/2016/09/Syllabus_Economics_of_Aging.pdf). By Prof. Axel Börsch-Supan, Max Planck Institute for Social Law and Social Policy. 22.5 hours.
+* <b>11/04/2021 - 12/21/2021</b>: PhD course "Basic Neuroscience for Organisational Research and Economics". By Dr. Franziska Emmerling (TUM). 22.5 hours.
+* <b>06/28/2021 - 07/29/2021</b>: PhD course "Behavioral and Experimental Economics". By Prof. Michael Kurschilgen (TUM). 22.5 hours.
+* <b>05/10/2021 - 06/14/2021</b>: PhD course "Psychological Theories". By Prof. Claudia Peus (TUM). 22.5 hours.
+* <b>10/2020 – 02/2021</b>: PhD Course "Mastering the Review Process: Writing of and Responding to Peer-Reviews". By Prof. Dr. Jens Förderer (TUM). 22.5 hours.
+* <b>10/2020 – 02/2021</b>: PhD Course "Economics of Aging". By Prof. Axel Börsch-Supan, Max Planck Institute for Social Law and Social Policy. 22.5 hours.
 * <b>07/16/2020</b>: Research Seminar "Recalls and innovation: Own and competitor firm response". By Dr. Ariel D. Stern (Harvard Business School).
 * <b>07/02/2020</b>: Research Seminar "Freemium Killer Apps: Business Model Competition and the performance of digital PC games on steam". By Dr. Joost Rietveld (UCL).
 * <b>05/20/2020</b>: Webinar "Research Data Management". By Hedwig Bäcker (TUM).
