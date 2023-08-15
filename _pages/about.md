@@ -27,14 +27,14 @@ I earned my bachelor in Management at [Shanghai University](https://www.shu.edu.
 * _09/08/2021_: I received the Gewährung einer Leistungsprämie, Präsident (Presidential annual performance prize) of TUM.
 * _04/01/2021_: our paper entitled "Keeping it Real or Bridging the Gap? Brand Positioning of US Sport Teams in Germany and China" was accepted by Journal of Sport Management.
 * _05/05/2021_: our paper entitled "Determinants of Fitness App Usage and Moderating Impacts of Education-, Motivation-, and Gamification-Related App Features on Physical Activity Intentions: Cross-sectional Survey Study" was accepted by Journal of Medical Internet Research.
-* _08/04/2020_: our paper entitled "Determinants of physical activity maintenance during the Covid-19 pandemic: a focus on fitness apps" was accepted by Translational Behavioral Medicine.
-* _11/2019_: I started as a PhD student and research assitant at the Chair of Sport and Health Management of TUM.
+* _08/04/2020_: our paper entitled "Determinants of physical activity maintenance during the Covid-19 pandemic: A focus on fitness apps" was accepted by Translational Behavioral Medicine.
+* _11/2019_: I started as a PhD student at TUM School of Management and research associate at the Chair of Sport and Health Management of TUM.
 
 ## CONTACT
 
-* <b>Email</b>: yanxiang.yang(at)tum.de
-* <b>Phone</b>: +49 089 289 24569
-* <b>Address</b>: Georg-Brauchle-Ring 60/62, 80992 Munich
+* _Email_: yanxiang(dot)yang(at)tum(dot)de
+* _Phone_: +49 089 289 24569
+* _Office_: Campus D, Georg-Brauchle-Ring 60/62, 80992 Munich
 
 
 
