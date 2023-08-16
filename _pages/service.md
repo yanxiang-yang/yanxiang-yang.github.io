@@ -25,5 +25,5 @@ author_profile: true
 * JMIR mHealth and uHealth (4)
 * International Journal of Human-Computer Interaction (4)
 * International Journal of Human-Computer Studies (1)
-* * EASM 2022 Conference Abstract (4)
+* EASM 2022 Conference Abstract (4)
 
