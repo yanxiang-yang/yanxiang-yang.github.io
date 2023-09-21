@@ -31,7 +31,7 @@ My research focuses on sport and health management. My main research line invest
 ## Conference Proceedings
 
 ### 2023
-* <b>Yanxiang Yang</b> and Joerg Koenigstorfer. “Physical activity intentions depending on individual ranks in smartphone app leaderboards”. 31st European Association for Sport Management Conference, Belfast, North Ireland. 09/12/2023 - 09/15/2023. Oral presentation.
+* <b>Yanxiang Yang</b> and Joerg Koenigstorfer. “Physical activity intentions depending on individual ranks in smartphone app leaderboards”. 31st European Association for Sport Management Conference, Belfast, Northern Ireland. 09/12/2023 - 09/15/2023. Oral presentation.
 * <b>Yanxiang Yang</b>, Keshav Gupta, Thilo Kunkel, Daniel Funk, & Joerg Koenigstorfer. "Gamification implementations in professional team sport apps". The North American Society for Sport Management Conference. Montréal, Canada. 05/31/2023 - 06/03/2023. Oral presentation.
 
 ### 2022
