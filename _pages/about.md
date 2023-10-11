@@ -22,7 +22,7 @@ I earned my bachelor in Management at [Shanghai University](https://ms.shu.edu.c
 * _11/25/2022_: our paper entitled "Predicting transfer fees in professional European football before and during COVID-19 using machine learning" was accepted by European Sport Management Quarterly.
 * _06/03/2022_: I presented at the 2022 North American Society for Sport Management Conference in Atlanta, USA.
 * _08/04/2022_: I was funded by TUM School of Management as a two-year Academic Training Program Fellow, Technical University of Munich.
-* _04/12/2022_: I have been staying as a visiting PhD student for 6 months at the Sport Industry Research Center, Department of Sport and Recreation Management, Temple University, USA, with Prof. Thilo Kunkel and Prof. Daniel Funk.
+* _04/12/2022_: I have been staying as a visiting PhD student for 6 months at the Sport Industry Research Center, Department of Sport and Recreation Management, Temple University, USA.
 * _03/22/2022_: our paper entitled "The effects of a lifestyle intervention supported by the InterWalk smart-phone application on increasing physical activity among persons with type 2 diabetes: A parallel-group, randomized trial" was accepted by JMIR mHealth and uHealth.
 * _01/27/2022_: I joined the "dvs-Mentoring Programm for Young Scientists" of the German Society of Sport Science, with Prof. Sebastian Uhrich from German Sport University as my mentor.
 * _10/20/2021_: our paper entitled "Effects of Gamified Smartphone Applications on Physical Activity: A Systematic Review and Meta-Analysis" was accepted by American Journal of Preventive Medicine.
