@@ -15,7 +15,7 @@ I earned my bachelor in Management at [Shanghai University](https://ms.shu.edu.c
 
 ## UPDATES
 * _10/23/2023_: I received the Gewährung einer Leistungsprämie, Präsident (Presidential annual performance prize) of TUM.
-* _10/06/2023_: I successfully defend my PhD dissertation (disputatio), in Uptown Munich Campus D.
+* _10/06/2023_: I successfully defend my PhD dissertation (disputatio) with highest distinction (Summa cum laude).
 * _09/15/2023_: I presented at the 31st European Sport Management Conference in Belfast, Northern Ireland.
 * _03/10/2023_: our paper entitled "The State of Play between Managing Major Sport Events and Human Rights: A Scoping Review" was accepcted by Event Management.
 * _12/06/2022_: I received the Certificate for Teaching in Higher Education of Bavarian Universities.
