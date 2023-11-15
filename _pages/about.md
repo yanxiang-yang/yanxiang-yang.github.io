@@ -14,6 +14,7 @@ I earned my bachelor in Management at [Shanghai University](https://ms.shu.edu.c
 
 
 ## UPDATES
+* _11/15/2023_: I received certificate of the "dvs-Mentoring Programm for Young Scientists" of the German Society of Sport Science.
 * _10/23/2023_: I received the Gewährung einer Leistungsprämie, Präsident (Presidential annual performance prize) of TUM.
 * _10/06/2023_: I successfully defend my PhD dissertation (disputatio) with highest distinction (Summa cum laude).
 * _09/15/2023_: I presented at the 31st European Sport Management Conference in Belfast, Northern Ireland.
