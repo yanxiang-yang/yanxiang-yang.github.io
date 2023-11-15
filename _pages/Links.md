@@ -7,6 +7,8 @@ author_profile: true
 {% include base_path %}
 
 ## Awards, Funding, & Scholarships
+* <b>11/2023</b>: [Certificate](https://yanxiang-yang.github.io/files/dvs.pdf) of the "dvs-Mentoring Programm for Young Scientists" of the German Society of Sport Science.
+* <b>10/2023</b>: Presidential performance awards (Gewährung einer leistungsprämie, Der Präsident), Technical University of Munich.
 * <b>11/2022</b>: [Certificate](https://yanxiang-yang.github.io/files/teaching.pdf): “Zertifikat Hochschullehre (Certificate for Teaching in Higher Education of Bavarian Universities)”. TUM ProfiLehre.
 * <b>10/2022 - </b>: Research Excellence / Academic Training Program, TUM School of Management, Technical University of Munich. 1,500 EUR/month.
 * <b>2022</b>: Marie Skłodowska-Curie [Fellowship](https://yanxiang-yang.github.io/files/eucertificate.pdf) (as part of the EU-funded EventRights project)
