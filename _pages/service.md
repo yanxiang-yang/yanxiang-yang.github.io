@@ -14,6 +14,9 @@ author_profile: true
 
 ## Ad-hoc Reveiwer
 * European Sport Management Quarterly (1)
+* International Journal of Human-Computer Interaction (5)
+* International Journal of Human-Computer Studies (1)
+* Computers in Human Behavior (1)
 * International Journal of Sports Marketing and Sponsorship (1)
 * Journal of Global Sport Management (1)
 * Applied Economics (1)
@@ -23,8 +26,7 @@ author_profile: true
 * Translational Behavioral Medicine (1)
 * Journal of Medical Internet Research (4)
 * JMIR mHealth and uHealth (4)
-* International Journal of Human-Computer Interaction (5)
-* International Journal of Human-Computer Studies (1)
+
 * Scientific Reports (1)
 * EASM 2022 Conference Abstract (4)
 
