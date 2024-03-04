@@ -39,9 +39,8 @@ I earned my master's degree in Sport Science at [Shanghai Jiao Tong University](
 
 ## CONTACT
 
-* _Email_: yanxiang(dot)yang(at)tum(dot)de
-* _Phone_: +49 089 289 24569
-* _Office_: Campus D, Georg-Brauchle-Ring 60/62, 80992 Munich
+* _Email_: yanxiang(dot)yang(at)sjtu(dot)edu(dot)cn
+* _Office_: Dongchuan Road 800, 200240 Shanghai
 
 
 
