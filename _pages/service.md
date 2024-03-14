@@ -8,8 +8,9 @@ author_profile: true
 
 
 ## Academic Membership
-* <b>01/2020</b>: Student Member of European Association for Sport Management (EASM)
-* <b>06/2021</b>: Student Member of North American Society for Sport Management (NASSM)
+* <b>10/2023</b>: Member of Shanghai Association of Sport Science (上海市体育科学学会)
+*  <b>01/2020</b>: Member of European Association for Sport Management (EASM)
+* <b>06/2021</b>: Member of North American Society for Sport Management (NASSM)
 * <b>01/2022</b>: dvs-Mentoring Programm (German Society of Sport Science); Mentor: Prof. Sebastian Uhrich, DSHS
 
 ## Ad-hoc Reveiwer
