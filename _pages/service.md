@@ -25,6 +25,7 @@ author_profile: true
 * Telematics and Informatics (1)
 * Translational Behavioral Medicine (1)
 * Scientific Reports (1)
+
 ### Sport economics and management
 * European Sport Management Quarterly (1)
 * International Journal of Sports Marketing and Sponsorship (1)
