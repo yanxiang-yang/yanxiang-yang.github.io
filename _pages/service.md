@@ -14,20 +14,23 @@ author_profile: true
 * <b>01/2022</b>: dvs-Mentoring Programm (German Society of Sport Science); Mentor: Prof. Sebastian Uhrich, DSHS
 
 ## Ad-hoc Reveiwer
+### Gamification & Digital health
 * International Journal of Human-Computer Interaction (5)
 * Journal of Medical Internet Research (4)
 * JMIR mHealth and uHealth (4)
+* eClinicalMedicine (1)
 * Digital Health (2)
 * International Journal of Human-Computer Studies (1)
 * Computers in Human Behavior (1)
 * Telematics and Informatics (1)
 * Translational Behavioral Medicine (1)
+* Scientific Reports (1)
+### Sport economics and management
 * European Sport Management Quarterly (1)
 * International Journal of Sports Marketing and Sponsorship (1)
 * Journal of Global Sport Management (1)
 * Applied Economics (1)
 * Marketing ZFP - Journal of Research and Management (1)
 * Journal of Promotion Management (1)
-* Scientific Reports (1)
 * EASM 2022 Conference Abstract (4)
 
