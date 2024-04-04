@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Bio"
-## excerpt: "Bio"
+## excerpt: "$\color{#0065bd}{\text{Bio}}$"
 author_profile: true
 redirect_from: 
   - /about/
