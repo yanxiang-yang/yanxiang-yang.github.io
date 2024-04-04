@@ -11,5 +11,5 @@ author_profile: true
 Here are some photos that I would like to share.
 
 <img align="right" src="{{https://yanxiang-yang.github.io}}/images/munich1.jpg" width="200" alt="image" /> 
-The first fall when I moved to Munich, @Olympic Park, where the campus of TUM Department of Sport and Health Sciences is located.
+The first autumn when I moved to Munich, @Olympic Park, where the campus of TUM Department of Sport and Health Sciences is located.
 
