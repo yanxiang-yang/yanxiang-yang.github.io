@@ -41,8 +41,8 @@ I love sport, particularly evening🏃 and 🎾. I am a certified tennis referee
 
 ## CONTACT
 
-* _Email_: yanxiang(dot)yang(at)sjtu(dot)edu(dot)cn
-* _Office_: 800 Dongchuan Road, 200240 Shanghai
+* 📧: yanxiang.yang(at)sjtu(dot)edu(dot)cn
+* 📮 800 Dongchuan Road, 200240 Shanghai
 
 
 
