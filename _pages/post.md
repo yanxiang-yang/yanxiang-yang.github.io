@@ -10,7 +10,8 @@ author_profile: true
 
 This is a photo from Munich, that I love to share.
 
-<img src="{{https://yanxiang-yang.github.io}}/images/munich1.jpg" width="200" />
+<img src="{{https://yanxiang-yang.github.io}}/images/munich1.jpg" width="200" /> <img src="{{https://yanxiang-yang.github.io}}/images/munich2.jpg" width="200" />
+
 
 I appreciate this great insight.
 
