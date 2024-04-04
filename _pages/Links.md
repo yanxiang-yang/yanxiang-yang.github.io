@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-## $\color{#0065bd}{\text{Awards, Funding, & Scholarships}}$	
+## $\color{#0065bd}{\text{Awards, Funding, Scholarships}}$	
 
 * <b>11/2023</b>: [Certificate](https://yanxiang-yang.github.io/files/dvs.pdf) of the "dvs-Mentoring Programm for Young Scientists" of the German Society of Sport Science.
 * <b>10/2023</b>: Presidential performance awards (Gewährung einer leistungsprämie, Der Präsident), Technical University of Munich.
