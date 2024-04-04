@@ -17,7 +17,7 @@ I earned my master's degree in Sport Science at [Shanghai Jiao Tong University](
 I love sport, particularly evening🏃 and 🎾. I am a certified tennis referee.
 
 
-## UPDATES
+## Updates
 * _01/09/2024_: I started as a Tenure-Track Assistant Professor of Sport and Health Management at SJTU, I am excited about this new adventure.
 * _11/15/2023_: I received certificate of the "dvs-Mentoring Programm for Young Scientists" of the German Society of Sport Science.
 * _10/23/2023_: I received the Gewährung einer Leistungsprämie, Präsident (Presidential annual performance prize) of TUM.
@@ -39,7 +39,7 @@ I love sport, particularly evening🏃 and 🎾. I am a certified tennis referee
 * _08/04/2020_: our paper entitled "Determinants of physical activity maintenance during the Covid-19 pandemic: A focus on fitness apps" was accepted by Translational Behavioral Medicine.
 * _11/2019_: I started as a PhD student at TUM School of Management and research associate at the Chair of Sport and Health Management of TUM.
 
-## CONTACT
+## Contact
 
 * 📧: yanxiang.yang(at)sjtu(dot)edu(dot)cn
 * 📮 800 Dongchuan Road, 200240 Shanghai
