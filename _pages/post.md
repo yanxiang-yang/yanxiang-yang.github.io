@@ -6,12 +6,10 @@ author_profile: true
 ---
 {% include base_path %}
 
-## This is the post
+## Post
 
-This is a photo from Munich, that I love to share.
+Here are some photos that I would like to share.
 
 <img align="right" src="{{https://yanxiang-yang.github.io}}/images/munich1.jpg" width="200" alt="image" /> 
-I appreciate this great insight.I appreciate this great insight. I appreciate this great insight. I appreciate this great insight. I appreciate this great insight. I appreciate this great insight. I appreciate this great insight. I appreciate this great insight.
-
-## Next
+The first fall when I moved to Munich, @Olympic Park, where the campus of TUM Department of Sport and Health Sciences is located.
 
