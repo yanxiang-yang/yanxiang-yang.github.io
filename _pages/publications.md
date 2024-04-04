@@ -12,7 +12,7 @@ My research focuses on sport and digital health management. My main research lin
 
 * Sport and Digital Health Management
 * Gamification & mHealth
-* Sports Analytics (tennis, football)
+* Sports Analytics
 
 
 ## Journal Publications
