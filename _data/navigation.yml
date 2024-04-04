@@ -8,12 +8,7 @@ main:
     url: /teaching2/    
 
   - title: "Service"
-    url: /service/ 
-    
-  - title: "Tennis"
-    url: /cv2/
+    url: /service/
     
   - title: "Miscellaneous"
     url: /Links/
-
-    
