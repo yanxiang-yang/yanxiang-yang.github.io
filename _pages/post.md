@@ -10,7 +10,7 @@ author_profile: true
 
 This is a photo from Munich, that I love to share.
 
-<img src="{{https://yanxiang-yang.github.io}}/images/equation-1.gif" width="250"/>
+<img src="{{https://yanxiang-yang.github.io}}/images/munich1.jpg” width="350"/>
 
 
 I appreciate this great insight.
