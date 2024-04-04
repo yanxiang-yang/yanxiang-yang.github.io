@@ -10,8 +10,8 @@ author_profile: true
 * <b>11/2023</b>: [Certificate](https://yanxiang-yang.github.io/files/dvs.pdf) of the "dvs-Mentoring Programm for Young Scientists" of the German Society of Sport Science.
 * <b>10/2023</b>: Presidential performance awards (Gewährung einer leistungsprämie, Der Präsident), Technical University of Munich.
 * <b>11/2022</b>: [Certificate](https://yanxiang-yang.github.io/files/teaching.pdf): “Zertifikat Hochschullehre (Certificate for Teaching in Higher Education of Bavarian Universities)”. TUM ProfiLehre.
-* <b>10/2022 - </b>: Research Excellence / Academic Training Program, TUM School of Management, Technical University of Munich. 1,500 EUR/month.
-* <b>2022</b>: Marie Skłodowska-Curie [Fellowship](https://yanxiang-yang.github.io/files/eucertificate.pdf) (as part of the EU-funded EventRights project)
+* <b>10/2022 - 10/2023 </b>: Research Excellence & Academic Training Program, TUM School of Management, Technical University of Munich. 1,500 EUR/month.
+* <b>2022</b>: Marie Skłodowska-Curie [Fellowship](https://yanxiang-yang.github.io/files/eucertificate.pdf)
 * <b>04/2022 - 10/2022</b>: EU Horizon 2020 programme EventRights, Research and Innovation Staff Exchange. 12,600 EUR mobility funding and 10,800 EUR research funding (PI: Prof. Jörg Königstorfer).
 * <b>09/2021</b>: Presidential performance awards (Gewährung einer leistungsprämie, Der Präsident), Technical University of Munich. 2,335 EUR.
 * <b>2019/11</b>:	Research Associate (fully funded PhD position, E13 TV-L), Techincal University of Munich, Germany [Accepted]
