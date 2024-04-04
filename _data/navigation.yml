@@ -13,5 +13,5 @@ main:
   - title: "Miscellaneous"
     url: /Links/
 
-  - title: "Post"
-    url: /post/
+  - # title: "Post"
+    # url: /post/
