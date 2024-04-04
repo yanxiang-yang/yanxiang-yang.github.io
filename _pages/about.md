@@ -14,7 +14,7 @@ I received my PhD (Dr. rer. pol.) in Sport and Health Management at [TUM School
 
 I earned my master's degree in Sport Science at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2019, supervised by Professor [Shulin Cheng](https://www.researchgate.net/profile/Sulin-Cheng). During my master's, I spent 3 months at [German Sport University Cologne](https://www.dshs-koeln.de/) with Professors [Moritz Schumann](https://www.tu-chemnitz.de/hsw/ab/prof/sportmedizin/professur/leitung.php.en) and [Wilhelm Bloch](https://www.dshs-koeln.de/visitenkarte/person/univ-prof-dr-wilhelm-bloch/), fully granted by [DAAD](https://www.daad.org.cn/zh/find-funding/funding-programmes-in-germany/master-short-term-scholarship). I also spent 6 months at [Centre for Physical Activity Research](https://aktivsundhed.dk/da/) of [University of Copenhagen](https://www.ku.dk/english/) with Professors [Mathias Ried-Larsen](https://www.aktivsundhed.dk/riedlarsen-group) and [Bente Klarlund Pedersen](https://scholar.google.dk/citations?user=iVihIzAAAAAJ&hl=da), fully granted by [CSC and Danish Government Scholarship](https://www.csc.edu.cn/chuguo). Prior to that, I received my bachelor in Management at [School of Management](https://ms.shu.edu.cn) of [Shanghai University](https://shu.edu.cn/).
 
-I love sport, particularly evening run and tennis. I am a certified tennis referee.
+I love sport, particularly evening🏃 and 🎾. I am a certified tennis referee.
 
 
 ## UPDATES
