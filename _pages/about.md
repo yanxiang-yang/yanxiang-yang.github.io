@@ -17,7 +17,7 @@ I earned my master's degree in Sport Science at [Shanghai Jiao Tong University](
 I love sport, particularly evening🏃 and 🎾. I am a certified tennis referee.
 
 
-## $${\color{blue}Updates}$$
+## ${\color{blue}Updates}$
 * _01/09/2024_: I started as a Tenure-Track Assistant Professor of Sport and Health Management at SJTU, I am excited about this new adventure.
 * _11/15/2023_: I received certificate of the "dvs-Mentoring Programm for Young Scientists" of the German Society of Sport Science.
 * _10/23/2023_: I received the Gewährung einer Leistungsprämie, Präsident (Presidential annual performance prize) of TUM.
