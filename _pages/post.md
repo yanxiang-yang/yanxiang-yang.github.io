@@ -9,7 +9,9 @@ author_profile: true
 ## This is the post
 
 This is a photo from Munich, that I love to share.
-<img src="{{https://yanxiang-yang.github.io}}/images/munich1.jpg" style="display: block; margin: 350;" />
+
+<img src="{{https://yanxiang-yang.github.io}}/images/equation-1.gif" width="250"/>
+
 
 I appreciate this great insight.
 
