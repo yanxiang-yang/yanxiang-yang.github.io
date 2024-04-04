@@ -6,7 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
-## Awards, Funding, & Scholarships
+## $\color{#0065bd}{\text{Awards, Funding, & Scholarships}}$	
+
 * <b>11/2023</b>: [Certificate](https://yanxiang-yang.github.io/files/dvs.pdf) of the "dvs-Mentoring Programm for Young Scientists" of the German Society of Sport Science.
 * <b>10/2023</b>: Presidential performance awards (Gewährung einer leistungsprämie, Der Präsident), Technical University of Munich.
 * <b>11/2022</b>: [Certificate](https://yanxiang-yang.github.io/files/teaching.pdf): “Zertifikat Hochschullehre (Certificate for Teaching in Higher Education of Bavarian Universities)”. TUM ProfiLehre.
@@ -26,9 +27,10 @@ author_profile: true
 * <b>2016</b>:	Shanghai Tennis Competition for College Students: Men’s team bronze medal, East China University of Science and Technology Division
 
 
-## PhD Training @TUM
+## $\color{#0065bd}{\text{PhD Training @TUM}}$	
 
-### TUM School of Management
+### $\color{#0065bd}{\text{TUM School of Management}}$
+
 * <b>01/2023 - </b>: PhD Course "Web Scraping for Scientists: An Introduction with Python". By Prof. Dr. Jens Förderer (TUM). 22.5 hours.
 * <b>12/2022 - </b>: PhD Course "Qualitative Research". By Prof. Dr. Frank-Martin Belz (TUM). 22.5 hours.
 * <b>10/2022 - 12/2022</b>: PhD Course "Efficient Academic Writing". By Prof. Dr. Chengguang Li (TUM). 22.5 hours.
@@ -43,7 +45,8 @@ author_profile: true
 * <b>07/02/2020</b>: Research Seminar "Freemium Killer Apps: Business Model Competition and the performance of digital PC games on steam". By Dr. Joost Rietveld (UCL).
 * <b>05/20/2020</b>: Webinar "Research Data Management". By Hedwig Bäcker (TUM).
 
-### TUM Faculty of Sport and Health Sciences
+### $\color{#0065bd}{\text{TUM Faculty of Sport and Health Sciences}}$	
+
 * <b>01/27/2023</b>: Key Lecture "Circadian Rhythms, Health and Disease". by Prof. Dr. Juleen R. Zierath (KI and University of Copenhagen).
 * <b>11/23/2022</b>: Health Science Talks "Children, adolescents and the social determinants of health. Comparative findings from the HBSC study". By Prof. Matthias Richter (TUM).
 * <b>05/11/2022</b>: Lecture "Grasping the virtual world". By Dr. Gavin Buckingham (University of Exeter, UK).
@@ -55,7 +58,8 @@ author_profile: true
 * <b>11/2019</b>:	Workshop "Latent Class Analysis". By Dr. Jörg Heine (TUM).
 * <b>11/21/2019</b>: Doctoral Colloquium "Fitness tracker: yet another consumer trend or valid tool for assessment of physical activity and health status in health care". By Dr. Alexander Tallner (Univ. Erlangen–Nuremberg).
 
-### External
+### $\color{#0065bd}{\text{External}}$	
+
 * <b>06/20/2022</b>: Foregrounding a Rights-Based Agenda for Sport Events: Insights from Research and Practice. Organized by EventRights Project.
 * <b>05/19/2022</b>: SMAANZ Teaching & Learning Webinar: "Digitally assessing sport consumer experiences: a sport marketing assessment". By Adam Karg (Swinburne). Organized by SMAANZ.
 * <b>05/18/2022</b>: NASSM Student (and Early Career) Engagement Initiative "Building a Research Program as an Early Career Researcher". Organized by NASSM.
