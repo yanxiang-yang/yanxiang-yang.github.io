@@ -8,6 +8,9 @@ author_profile: true
 
 ## Post
 
+### [About German beer](https://yanxiang-yang.github.io/posts/2012/08/blog-post-1/) 
+
+
 Here are some photos that I would like to share.
 
 <img align="right" src="{{https://yanxiang-yang.github.io}}/images/munich1.jpg" width="200" alt="image" /> 
