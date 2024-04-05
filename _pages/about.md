@@ -1,12 +1,14 @@
 ---
 permalink: /
 title: "Bio"
-## excerpt: "$\color{#0065bd}{\text{Bio}}$"
+## excerpt: Bio
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## $\color{#0065bd}{\text{Bio}}$	
 
 I am currently a Tenure-Track Assistant Professor of Sport and Health Management, at [Department of Physical Education](https://tiyuxi.sjtu.edu.cn) of [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), China. Prior to this, I studied in Munich🇩🇪, Philadelphia🇺🇸, Copenhagen🇩🇰, Cologne🇩🇪, and Shanghai🇨🇳.
 
