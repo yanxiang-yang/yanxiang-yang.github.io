@@ -42,15 +42,12 @@ I am passionate about sport, particularly evening🏃 and 🎾, I am a certified
 
 ## Contact
 
-* 📧: yanxiang.yang(at)sjtu.edu.cn
-* 📮: 800 Dongchuan Road, 200240 Shanghai
-
 _Yanxiang Yang_  
 _Shanghai Jiao Tong University_  
-_PE Department_  
-_Room 303_  
+_Department of Physical Education_  
 _800 Dongchuan Road_  
-_200240 Shanghai, China_  
+_200240 Shanghai_  
+_China_    
 _Email: yanxiang.yang(at)sjtu.edu.cn_  
 
 
