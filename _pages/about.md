@@ -42,7 +42,7 @@ I am passionate about sport, particularly evening🏃 and 🎾, I am a certified
 
 ## Contact
 
-* 📧: yanxiang.yang(at)sjtu(dot)edu(dot)cn
+* 📧: yanxiang.yang(at)sjtu.edu.cn
 * 📮: 800 Dongchuan Road, 200240 Shanghai
 
 
