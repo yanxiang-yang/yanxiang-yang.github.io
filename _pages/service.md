@@ -18,7 +18,7 @@ author_profile: true
 * International Journal of Human-Computer Interaction (5)
 * Journal of Medical Internet Research (4)
 * JMIR mHealth and uHealth (4)
-* eClinicalMedicine (1)
+* eClinicalMedicine (1, [certificate](https://yanxiang-yang.github.io/files/review1.pdf))
 * Digital Health (2)
 * International Journal of Human-Computer Studies (1)
 * Computers in Human Behavior (1)
