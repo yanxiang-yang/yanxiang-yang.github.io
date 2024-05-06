@@ -28,7 +28,7 @@ author_profile: true
 
 
 ## Fun Facts
-* <b>05/2024</b>: I was in the Men's Singles [semi-finalist](https://yanxiang-yang.github.io/images/cpc200.jpg) of China Pickleball Circuit (CPC 200), Shanghai.
+* <b>05/2024</b>: I was in the men's singles [semi-finalist](https://yanxiang-yang.github.io/images/cpc200.jpg) of China Pickleball Circuit (CPC 200), Shanghai.
 * I enjoy beer ([Augustiner](https://yanxiang-yang.github.io/images/beer1.jpg), [Tegernseer](https://yanxiang-yang.github.io/images/beer2.jpg), [Kölsch](https://yanxiang-yang.github.io/images/beer3.jpg), and [Stiegl](https://yanxiang-yang.github.io/images/beer4.jpg) from Salzburg),[Fritz Kola](https://yanxiang-yang.github.io/images/beer5.jpg), and [Club-Mate](https://yanxiang-yang.github.io/images/beer6.jpg), they make my life easier.
 
 
