@@ -42,11 +42,11 @@ I am passionate about sport, particularly evening🏃 and 🎾. I am a certified
 
 ## Contact
 
-_Yanxiang Yang, PhD_  
-_Department of Physical Education_  
-_Shanghai Jiao Tong University_  
-_200240 Shanghai, China_    
-_📧 yanxiang.yang(at)sjtu.edu.cn_  
+<b>Yanxiang Yang</b>, Ph.D.  
+Department of Physical Education  
+Shanghai Jiao Tong University  
+200240 Shanghai, China    
+📧 yanxiang.yang(at)sjtu.edu.cn  
 
 
 
