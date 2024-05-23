@@ -27,11 +27,6 @@ author_profile: true
 * <b>2016</b>:	Shanghai Tennis Competition for College Students: Men’s team bronze medal, East China University of Science and Technology Division
 
 
-## Fun Facts
-* <b>05/2024</b>: I was in the men's singles [semi-finalist](https://yanxiang-yang.github.io/images/cpc200.jpg) of China Pickleball Circuit (CPC 200), Shanghai.
-* I enjoy beer ([Augustiner](https://yanxiang-yang.github.io/images/beer1.jpg), [Tegernseer](https://yanxiang-yang.github.io/images/beer2.jpg), [Kölsch](https://yanxiang-yang.github.io/images/beer3.jpg), and [Stiegl](https://yanxiang-yang.github.io/images/beer4.jpg) from Salzburg),[Fritz Kola](https://yanxiang-yang.github.io/images/beer5.jpg), and [Club-Mate](https://yanxiang-yang.github.io/images/beer6.jpg), they make my life easier.
-
-
 ## PhD Training @TUM
 
 ### TUM School of Management
@@ -74,3 +69,8 @@ author_profile: true
 * <b>08/03/2020</b>: Virtual Workshop "Advanced Measurement and Research Design". By Charles Hofacker (Loyola Marymount University). Organized by American Marketing Association.
 * <b>06/15/2020</b>: International Conference "Prospective Physical Activity, Sitting and Sleep consortium (ProPASS) 3rd Annual Meeting (Zoom)". Organized by University of Sydney.
 * <b>02/19/2020</b>: Webinar "Behavior Change Guide for Local Government & Partners". By Dr. Susan Michie. Organized by UCL Centre for Behavior Change and Public Health England.
+
+
+## Fun Facts
+* <b>05/2024</b>: I was in the men's singles [semi-finalist](https://yanxiang-yang.github.io/images/cpc200.jpg) of China Pickleball Circuit (CPC 200), Shanghai.
+* I enjoy beer (e.g.,Augustiner, Tegernseer, Kölsch, Stiegl from Salzburg), Fritz Kola and Club-Mate.
