@@ -21,6 +21,7 @@ author_profile: true
 * eClinicalMedicine (1, [certificate](https://yanxiang-yang.github.io/files/review1.pdf))
 * Digital Health (2)
 * International Journal of Human-Computer Studies (1)
+* Behaviour & Information Technology (1)
 * Computers in Human Behavior (1)
 * Telematics and Informatics (1)
 * Translational Behavioral Medicine (1)
