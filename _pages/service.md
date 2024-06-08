@@ -15,24 +15,24 @@ author_profile: true
 
 ## Ad-hoc Reveiwer
 ### Gamification & Digital health
-* International Journal of Human-Computer Interaction (5)
-* Journal of Medical Internet Research (4)
-* JMIR mHealth and uHealth (4)
-* eClinicalMedicine (1, [certificate](https://yanxiang-yang.github.io/files/review1.pdf))
-* Digital Health (1)
-* International Journal of Human-Computer Studies (1)
-* Behaviour & Information Technology (1)
-* Computers in Human Behavior (1)
-* Telematics and Informatics (1)
-* Translational Behavioral Medicine (1)
-* Scientific Reports (1)
+* International Journal of Human-Computer Interaction
+* International Journal of Human-Computer Studies
+* eClinicalMedicine ([certificate](https://yanxiang-yang.github.io/files/review1.pdf))
+* Digital Health
+* Behaviour & Information Technology
+* Computers in Human Behavior
+* Telematics and Informatics
+* Translational Behavioral Medicine
+* Journal of Medical Internet Research
+* JMIR mHealth and uHealth
+* Scientific Reports
 
 ### Sport economics and management
-* European Sport Management Quarterly (1)
-* International Journal of Sports Marketing and Sponsorship (1)
-* Journal of Global Sport Management (1)
-* Applied Economics (1)
-* Marketing ZFP - Journal of Research and Management (1)
-* Journal of Promotion Management (1)
-* EASM 2022 Conference Abstract (4)
+* European Sport Management Quarterly
+* International Journal of Sports Marketing and Sponsorship
+* Journal of Global Sport Management
+* Applied Economics
+* Marketing ZFP - Journal of Research and Management
+* Journal of Promotion Management
+* EASM 2022 Conference Abstract
 
