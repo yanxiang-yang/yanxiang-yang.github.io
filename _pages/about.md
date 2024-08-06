@@ -24,7 +24,7 @@ I am passionate about sport, particularly evening🏃 and 🎾. I am a certified
 * _10/23/2023_: I received the Gewährung einer Leistungsprämie, Präsident, at TUM.
 * _10/06/2023_: I successfully defend my PhD dissertation (disputatio) with highest distinction (Summa cum laude).
 * _09/15/2023_: I presented at the 31st European Sport Management Conference in Belfast, Northern Ireland.
-* _03/10/2023_: our paper entitled "The State of Play between Managing Major Sport Events and Human Rights: A Scoping Review" was accepcted by Event Management.
+* _03/10/2023_: our paper entitled "The State of Play between Managing Major Sport Events and Human Rights: A Scoping Review" was accepted by Event Management.
 * _12/06/2022_: I received the Certificate for Teaching in Higher Education of Bavarian Universities.
 * _11/30/2022_: I received the Certificate of Marie Skłodowska-Curie Fellowship.
 * _11/25/2022_: our paper entitled "Predicting transfer fees in professional European football before and during COVID-19 using machine learning" was accepted by European Sport Management Quarterly.
