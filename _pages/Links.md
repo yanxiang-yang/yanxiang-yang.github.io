@@ -71,6 +71,6 @@ author_profile: true
 * <b>02/19/2020</b>: Webinar "Behavior Change Guide for Local Government & Partners". By Dr. Susan Michie. Organized by UCL Centre for Behavior Change and Public Health England.
 
 
-## Fun Facts
+## Personal
 * <b>05/2024</b>: I was in the men's singles [semi-finalist](https://yanxiang-yang.github.io/images/cpc200.jpg) of China Pickleball Circuit (CPC 200), Shanghai.
-* I enjoy beer (e.g.,Augustiner, Tegernseer, Kölsch, Stiegl from Salzburg), Fritz Kola and Club-Mate.
+* I enjoy beer.
