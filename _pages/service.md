@@ -35,4 +35,4 @@ author_profile: true
 * EASM 2022 Conference Abstract
 
 ## Community Service
-* _07/11/2024_: [体育系师生党员“冠军进洱源”体育帮扶实践活动走进校园](https://tiyuxi.sjtu.edu.cn/info/1079/26271.htm)
+* _07/11/2024_: 体育系师生党员“冠军进洱源”体育帮扶实践活动走进校园
