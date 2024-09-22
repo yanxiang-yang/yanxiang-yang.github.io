@@ -13,7 +13,7 @@ author_profile: true
 * 匹克球竞赛规则2024版[下载](https://yanxiang-yang.github.io/files/rules.pdf)
 
 ### 匹克球的健康益处
-* [匹克球对身心健康有什么益处](https://yanxiang-yang.github.io/files/paper1.pdf)
+* [匹克球对身心健康有什么益处](https://yanxiang-yang.github.io/files/paper111.pdf)
 * [匹克球的强度很高吗](https://yanxiang-yang.github.io/files/paper2.pdf)
 
 ### 匹克球组织
