@@ -17,7 +17,7 @@ author_profile: true
 * [匹克球的强度很高吗](https://yanxiang-yang.github.io/files/paper2.pdf)
 
 ### 匹克球组织
-* [国家体育总局小球运动管理中心]([https://usapickleball.org](https://www.sport.gov.cn/xqzx/))
+* [国家体育总局小球运动管理中心](https://www.sport.gov.cn/xqzx/)
 * [美国匹克球协会](https://usapickleball.org)
 
 
