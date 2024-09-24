@@ -6,19 +6,6 @@ author_profile: true
 ---
 {% include base_path %}
 
-## 匹克球（Pickleball）
-* 匹克球简介[PPT下载](https://yanxiang-yang.github.io/files/pickleball1.pdf)
-* 匹克球竞赛规则2024版[下载](https://yanxiang-yang.github.io/files/rules.pdf)
-* [匹克球对身心健康有什么益处](https://yanxiang-yang.github.io/files/paper111.pdf)
-* [匹克球的强度很高吗](https://yanxiang-yang.github.io/files/paper2.pdf)
-* [国家体育总局小球运动管理中心](https://www.sport.gov.cn/xqzx/)
-* [美国匹克球协会](https://usapickleball.org)
-
-
-
-
-
-
 ## Teaching and supervision @TUM
 ### Teaching @TUM
 * <b>2023WS</b>: "Entrepreneurship and Management in Healthcare and Sport". Lecturer. No evaluation.
