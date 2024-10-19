@@ -15,6 +15,7 @@ author_profile: true
 
 ## Ad-hoc Reveiwer
 * Digital Health
+* European Sport Management Quarterly
 * International Journal of Human-Computer Interaction
 * International Journal of Human-Computer Studies
 * eClinicalMedicine ([certificate](https://yanxiang-yang.github.io/files/review1.pdf))
@@ -25,14 +26,12 @@ author_profile: true
 * Journal of Medical Internet Research
 * JMIR mHealth and uHealth
 * Scientific Reports
-
-* European Sport Management Quarterly
 * International Journal of Sports Marketing and Sponsorship
 * Journal of Global Sport Management
 * Applied Economics
 * Marketing ZFP - Journal of Research and Management
 * Journal of Promotion Management
-* EASM 2022 Conference Abstract
+* EASM 2022 Conference Abstract reviewer
 
 ## Community Service
 * _07/11/2024_: 体育系师生党员“冠军进洱源”体育帮扶实践活动走进校园
