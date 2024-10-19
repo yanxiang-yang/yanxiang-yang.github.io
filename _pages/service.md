@@ -14,7 +14,7 @@ author_profile: true
 * <b>01/2022</b>: dvs-Mentoring Programm (German Society of Sport Science); Mentor: Prof. Sebastian Uhrich, DSHS
 
 ## Ad-hoc Reveiwer
-* Digital Health (member of Editorial Review Board)
+* Digital Health
 * International Journal of Human-Computer Interaction
 * International Journal of Human-Computer Studies
 * eClinicalMedicine ([certificate](https://yanxiang-yang.github.io/files/review1.pdf))
