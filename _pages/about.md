@@ -23,7 +23,7 @@ I am passionate about sport, particularly evening🏃 and 🎾. I am a certified
 * _01/09/2024_: I started as a Tenure-Track Assistant Professor of Sport and Health Management at SJTU, I am excited about this new adventure.
 * _11/15/2023_: I received certificate of the "dvs-Mentoring Programm for Young Scientists" of the German Society of Sport Science.
 * _10/23/2023_: I received the Gewährung einer Leistungsprämie, Präsident, at TUM.
-* _10/06/2023_: I successfully defend my PhD dissertation (disputatio) with highest distinction (Summa cum laude).
+* _10/06/2023_: I successfully defend my PhD dissertation (disputatio) with highest distinction (_summa cum laude_).
 * _09/15/2023_: I presented at the 31st European Sport Management Conference in Belfast, Northern Ireland.
 * _03/10/2023_: our paper entitled "The State of Play between Managing Major Sport Events and Human Rights: A Scoping Review" was accepted by Event Management.
 * _12/06/2022_: I received the Certificate for Teaching in Higher Education of Bavarian Universities.
