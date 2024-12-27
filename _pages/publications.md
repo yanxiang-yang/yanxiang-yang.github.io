@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Research Interests
-My research focuses on sport and digital health management. My main research line investigates the role of gamification in consumers' sport and digital health behaviors. I am also interested in topics of sports analytics. I use multiple research methodologies including quantitative (e.g., structural equation modeling, machine learning, web scraping, meta-analysis; I am an R user) and qualitative (e.g., semi-structured interview) approach. Our work has appeared in renowned journals such as European Sport Management Quarterly, Journal of Sport Management, American Journal of Preventive Medicine, British Journal of Sports Medicine, Event Management, among others. I am on the editorial review board of _Digital Health_. My research keywords are:
+My research focuses on sport and digital health management. My main research line investigates the role of gamification in consumers' sport and digital health behaviors. I am also interested in topics of sports analytics. I use multiple research methodologies including quantitative (e.g., structural equation modeling, machine learning, web scraping, meta-analysis; I am an R user) and qualitative (e.g., semi-structured interview) approach. Our work has appeared in renowned journals such as Computers in Human Behavior, European Sport Management Quarterly, Journal of Sport Management, American Journal of Preventive Medicine, British Journal of Sports Medicine, Event Management, among others. I am on the editorial review board of _Digital Health_. My research keywords are:
 
 * Sport & Digital Health Management
 * Gamification
