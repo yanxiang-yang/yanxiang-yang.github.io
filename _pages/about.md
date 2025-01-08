@@ -19,6 +19,7 @@ I am passionate about sport, particularly evening🏃 and 🎾. I am a certified
 
 ## Updates
 
+* _01/2025_: our paper entitled “A machine learning approach to understanding performance of Canadian nonprofit sport organizations” was accepted by Nonprofit Management & Leadership.
 * _12/2024_: our paper entitled “The curvilinear effects of relative positions in smartphone App leaderboards on physical activity” was accepted by Computers in Human Behavior.
 * _01/2024_: I started as a Tenure-Track Assistant Professor of Sport and Health Management at SJTU, I am excited about this new adventure.
 * _11/2023_: I received certificate of the "dvs-Mentoring Programm for Young Scientists" of the German Society of Sport Science.
