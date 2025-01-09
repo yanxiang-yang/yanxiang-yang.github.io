@@ -17,7 +17,7 @@ My research focuses on sport and digital health management. My main research lin
 
 ## Selected Journal Publications
 
-1. <b>Yanxiang Yang</b>, Terri Byers, and Joerg Koenigstorfer (2025): A machine learning approach to understanding performance of Canadian nonprofit sport organizations. <i>Nonprofit Management & Leadership.</i>. [Forthcoming]
+1. <b>Yanxiang Yang</b>, Terri Byers, and Joerg Koenigstorfer (2025): A machine learning approach to understanding performance of Canadian nonprofit sport organizations. <i>Nonprofit Management & Leadership</i>. [Forthcoming]
 2. <b>Yanxiang Yang</b> and Joerg Koenigstorfer (2025): The curvilinear effects of relative positions in smartphone App leaderboards on physical activity. <i>Computers in Human Behavior</i>. [DOI](https://doi.org/10.1016/j.chb.2024.108532) [News](https://tiyuxi.sjtu.edu.cn/info/1079/28161.htm)
 3. <b>Yanxiang Yang</b>, Joerg Koenigstorfer, and Tim Pawlowski (2024): Predicting transfer fees in professional European football before and during COVID-19 using machine learning. <i>European Sport Management Quarterly</i>. [DOI](https://www.tandfonline.com/doi/full/10.1080/16184742.2022.2153898) [Poster](https://yanxiang-yang.github.io/files/poster.pdf) [Appendix](https://yanxiang-yang.github.io/files/esmq.pdf)
 4. Joerg Koenigstorfer, <b>Yanxiang Yang</b>, Jason N. Bocarro, Ian Brittain, Erik Lundberg, David McGillivray, Laura Misener, Laurence Chalip, and Michael B. Duignan (2023): The State of Play between Managing Major Sport Events and Human Rights: A Scoping Review. <i>Event Management</i>. [DOI](https://www.ingentaconnect.com/content/cog/em/pre-prints/content-koenigagain)
