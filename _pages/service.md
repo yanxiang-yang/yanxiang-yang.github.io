@@ -8,24 +8,25 @@ author_profile: true
 
 
 ## Academic Membership
+* <b>01/2024</b>: Member of Society of Behavioral Medicine
 * <b>10/2023</b>: Member of Shanghai Association of Sport Science (上海市体育科学学会)
 *  <b>01/2020</b>: Member of European Association for Sport Management (EASM)
 * <b>06/2021</b>: Member of North American Society for Sport Management (NASSM)
-* <b>01/2022</b>: dvs-Mentoring Programm (German Society of Sport Science); Mentor: Prof. Sebastian Uhrich, DSHS
+* <b>01/2022</b>: Member of DVS-Mentoring Programm (German Society of Sport Science)
 
 ## Ad-hoc Reveiwer
 * Digital Health ([editorial review board member](https://journals.sagepub.com/editorial-board/DHJ))
-* European Sport Management Quarterly
+* Computers in Human Behavior
+* Translational Behavioral Medicine
+* Behaviour & Information Technology
 * International Journal of Human-Computer Interaction
 * International Journal of Human-Computer Studies
 * eClinicalMedicine ([certificate](https://yanxiang-yang.github.io/files/review1.pdf))
-* Behaviour & Information Technology
-* Computers in Human Behavior
 * Telematics and Informatics
-* Translational Behavioral Medicine
 * Journal of Medical Internet Research
 * JMIR mHealth and uHealth
 * Scientific Reports
+* European Sport Management Quarterly
 * International Journal of Sports Marketing and Sponsorship
 * Journal of Global Sport Management
 * Applied Economics
