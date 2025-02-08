@@ -44,8 +44,4 @@ I am passionate about sport, particularly evening🏃 and 🎾. I am a certified
 
 ## Contact
 
-📧 y@sjtu.edu.cn, y = yanxiang.yang
-
-
-
-
+📧 x@y, x=yanxiang.yang, y=sjtu.edu.cn or =tum.de
