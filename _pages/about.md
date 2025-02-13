@@ -41,7 +41,7 @@ I am passionate about sport, particularly evening🏃 and 🎾. I am a certified
 * _05/2021_: our paper entitled "Determinants of Fitness App Usage and Moderating Impacts of Education-, Motivation-, and Gamification-Related App Features on Physical Activity Intentions: Cross-sectional Survey Study" was accepted by Journal of Medical Internet Research.
 * _08/2020_: our paper entitled "Determinants of physical activity maintenance during the Covid-19 pandemic: A focus on fitness apps" was accepted by Translational Behavioral Medicine.
 * _11/2019_: I started as a PhD student at TUM School of Management and research associate at Chair of Sport and Health Management of TUM.
-* _08/2019_: I have received fully-funded PhD positions from Deakin University, University of Queensland, University of Jyväskylä, and Technical University of Munich.
+* _08/2019_: I have received fully-funded PhD positions from U of Deakin, Queensland, Jyväskylä, and TUM.
 * _10/2018_: our paper entitled "Reliability and validity of a new accelerometer-based device for detecting physical activities and energy expenditure" was accepted by PeerJ.
 * _09/2018_: I have been staying as a joint master's student for 6 months at Center for Physical Activity Research, Copenhagen University, Denmark.
 * _05/2018_: I have been staying as a visiting master's student for 3 months at German Sport University Cologne, Germany.
