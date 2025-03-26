@@ -16,7 +16,7 @@ My main research line focuses on _gamification in sport and health management_. 
 
 ## Selected Journal Publications
 
-* Tamara Seufert, <b>Yanxiang Yang</b>, Iris Perey, and Joerg Koenigstorfer (2025): Fan Attitude toward Athlete Activism for Black Lives Matter。 <i>Journal of Sport & Social Issues</i>. Forthcoming.
+1. Tamara Seufert, <b>Yanxiang Yang</b>, Iris Perey, and Joerg Koenigstorfer (2025): Fan Attitude toward Athlete Activism for Black Lives Matter. <i>Journal of Sport & Social Issues</i>. Forthcoming.
 * <b>Yanxiang Yang</b>, Terri Byers, and Joerg Koenigstorfer (2025): A machine learning approach to understanding performance of Canadian nonprofit sport organizations. <i>Nonprofit Management & Leadership</i>. [DOI](https://doi.org/10.1002/nml.21651)
 * <b>Yanxiang Yang</b> and Joerg Koenigstorfer (2025): The curvilinear effects of relative positions in smartphone App leaderboards on physical activity. <i>Computers in Human Behavior</i>. [DOI](https://doi.org/10.1016/j.chb.2024.108532) [News](https://tiyuxi.sjtu.edu.cn/info/1079/28161.htm)
 * <b>Yanxiang Yang</b>, Joerg Koenigstorfer, and Tim Pawlowski (2024): Predicting transfer fees in professional European football before and during COVID-19 using machine learning. <i>European Sport Management Quarterly</i>. [DOI](https://www.tandfonline.com/doi/full/10.1080/16184742.2022.2153898) [Poster](https://yanxiang-yang.github.io/files/poster.pdf) [Appendix](https://yanxiang-yang.github.io/files/esmq.pdf)
