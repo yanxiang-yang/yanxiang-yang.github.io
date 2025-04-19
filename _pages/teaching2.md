@@ -8,11 +8,11 @@ author_profile: true
 
 ## Teaching and supervision @TUM
 ### Teaching @TUM
-* <b>2023WS</b>: "Entrepreneurship and Management in Healthcare and Sport". Lecturer. No evaluation.
-* <b>2023SS</b>: "Sponsorship-linked Marketing". Lecturer for online course. 04/2023 - 08/2023. No evaluation.
-* <b>2022WS</b>: "Sponsorship-linked Marketing". Lecturer for online course. 10/2022 - 03/2023. [Evaluation](https://yanxiang-yang.github.io/files/WS22.pdf).
-* <b>2021WS</b>: "Sponsorship-linked Marketing". Lecturer for online course. 10/2021 - 03/2022. No evaluation.
-* <b>2020WS</b>: "Research Methods in Sport Management with Application of R". B.Sc. Sport Science. Lecturer. 11/2020 - 02/2021. [Evaluation](https://yanxiang-yang.github.io/files/WS21.pdf).
+* <b>2023WS</b>: "Entrepreneurship and Management in Healthcare and Sport". Lecturer.
+* <b>2023SS</b>: "Sponsorship-linked Marketing". Lecturer. 04/2023 - 08/2023.
+* <b>2022WS</b>: "Sponsorship-linked Marketing". Lecturer. 10/2022 - 03/2023.
+* <b>2021WS</b>: "Sponsorship-linked Marketing". Lecturer. 10/2021 - 03/2022.
+* <b>2020WS</b>: "Research Methods in Sport Management with Application of R". B.Sc. Sport Science. Lecturer. 11/2020 - 02/2021.
 
 ### Supervision @TUM
 * <b>2023SS</b>: Patrick Pougy Dauelsberg: "The development and feasibility of an AI-based fitness application". Master Thesis in Management Science. TUM School of Management. 08/2023.
