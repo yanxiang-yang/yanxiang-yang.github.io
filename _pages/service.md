@@ -21,10 +21,11 @@ author_profile: true
 * Behaviour & Information Technology
 * International Journal of Human-Computer Interaction
 * International Journal of Human-Computer Studies
-* eClinicalMedicine ([certificate](https://yanxiang-yang.github.io/files/review1.pdf))
+* eClinicalMedicine
 * Telematics and Informatics
 * Journal of Medical Internet Research
 * JMIR mHealth and uHealth
+* JMIR Serious Games
 * Scientific Reports
 * European Sport Management Quarterly
 * International Journal of Sports Marketing and Sponsorship
