@@ -14,7 +14,7 @@ I received my PhD (Dr. rer. pol.) in Sport and Health Management at [TUM School
 
 I earned my master's degree in Sport Science at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2019, advised by Professor [Shulin Cheng](https://www.researchgate.net/profile/Sulin-Cheng). During my master's, I spent 3 months at [German Sport University Cologne](https://www.dshs-koeln.de/), fully granted by [DAAD](https://www.daad.org.cn/zh/find-funding/funding-programmes-in-germany/master-short-term-scholarship). I also spent 6 months at [Centre for Physical Activity Research](https://aktivsundhed.dk/da/) of [University of Copenhagen](https://www.ku.dk/english/), fully granted by [CSC and Danish Government Scholarship](https://www.csc.edu.cn/chuguo). Prior to that, I received my bachelor in Management at [School of Management](https://ms.shu.edu.cn) of [Shanghai University](https://shu.edu.cn/).
 
-I am passionate about sport, particularly evening🏃 and 🎾. I am a certified tennis referee and pickleball instructor.
+I am passionate about sport, particularly evening🏃 and 🎾. I am a certified tennis referee, pickleball referee (national II), and pickleball instructor.
 
 
 ## Updates
