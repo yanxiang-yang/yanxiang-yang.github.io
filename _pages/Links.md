@@ -8,6 +8,7 @@ author_profile: true
 
 ## Awards, Funding, Scholarships
 
+* <b>2024</b>: PuJiang Scholar
 * <b>11/2023</b>: Certificate of the "dvs-Mentoring Programm for Young Scientists" of the German Society of Sport Science.
 * <b>10/2023</b>: Annual performance awards (Gewährung einer leistungsprämie, Der Präsident), Technical University of Munich.
 * <b>11/2022</b>: Certificate: “Zertifikat Hochschullehre (Certificate for Teaching in Higher Education of Bavarian Universities)”. TUM ProfiLehre.
