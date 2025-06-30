@@ -28,9 +28,10 @@ author_profile: true
 * JMIR Serious Games
 * Scientific Reports
 * European Sport Management Quarterly
+* Applied Economics
+* Journal of Sports Analytics
 * International Journal of Sports Marketing and Sponsorship
 * Journal of Global Sport Management
-* Applied Economics
 * Marketing ZFP - Journal of Research and Management
 * Journal of Promotion Management
 * EASM 2022 Conference Abstract reviewer
