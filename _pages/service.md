@@ -30,6 +30,7 @@ author_profile: true
 * European Sport Management Quarterly
 * Applied Economics
 * Journal of Sports Analytics
+* Nonprofit Management and Leadership
 * International Journal of Sports Marketing and Sponsorship
 * Journal of Global Sport Management
 * Marketing ZFP - Journal of Research and Management
