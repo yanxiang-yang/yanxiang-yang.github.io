@@ -14,8 +14,11 @@ author_profile: true
 * <b>06/2021</b>: Member of North American Society for Sport Management (NASSM)
 * <b>01/2022</b>: Member of DVS-Mentoring Programm (German Society of Sport Science)
 
+## Editorial Service
+* Journal of Sports Analytics: Editorial Board Member
+* Digital Health: Editorial Review Board Member
+
 ## Ad-hoc Reveiwer
-* Digital Health ([editorial review board member](https://journals.sagepub.com/editorial-board/DHJ))
 * Computers in Human Behavior
 * Translational Behavioral Medicine
 * Behaviour & Information Technology
@@ -23,6 +26,7 @@ author_profile: true
 * International Journal of Human-Computer Studies
 * eClinicalMedicine
 * Telematics and Informatics
+* Digital Health
 * Journal of Medical Internet Research
 * JMIR mHealth and uHealth
 * JMIR Serious Games
