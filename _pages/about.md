@@ -21,7 +21,7 @@ I am passionate about sport, particularly evening🏃 and 🎾. I am a certified
 
 * _07/2025_: I joined the editorial board of Journal of Sports Analytics.
 * _03/2025_: our paper entitled "Fan Attitude toward Athlete Activism for Black Lives Matter" was accepted by Journal of Sport & Social Issues.
-* _01/2025_: I was involved in the magnolia youth talent program.
+* _01/2025_: I was involved in the byl youth talent program.
 * _01/2025_: our paper entitled “A machine learning approach to understanding performance of Canadian nonprofit sport organizations” was accepted by Nonprofit Management & Leadership.
 * _12/2024_: my research was funded by the pujiang program.
 * _12/2024_: our paper entitled “The curvilinear effects of relative positions in smartphone App leaderboards on physical activity” was accepted by Computers in Human Behavior.
