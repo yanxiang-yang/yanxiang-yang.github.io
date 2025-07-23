@@ -30,6 +30,7 @@ author_profile: true
 * Journal of Medical Internet Research
 * JMIR mHealth and uHealth
 * JMIR Serious Games
+* BMC Digital Health
 * Scientific Reports
 * European Sport Management Quarterly
 * Applied Economics
