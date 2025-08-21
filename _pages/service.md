@@ -31,6 +31,7 @@ author_profile: true
 * JMIR mHealth and uHealth
 * JMIR Serious Games
 * BMC Digital Health
+* Computers in Human Behavior Reports
 * Scientific Reports
 * European Sport Management Quarterly
 * Applied Economics
