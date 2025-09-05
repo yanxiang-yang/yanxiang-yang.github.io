@@ -8,6 +8,7 @@ author_profile: true
 
 
 ## Academic Membership
+* <b>2025</b>: Member of Chinese Society for Sport Management
 * <b>01/2024</b>: Member of Society of Behavioral Medicine
 * <b>10/2023</b>: Member of Shanghai Association of Sport Science (上海市体育科学学会)
 *  <b>01/2020</b>: Member of European Association for Sport Management (EASM)
