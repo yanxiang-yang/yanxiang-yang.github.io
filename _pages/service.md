@@ -11,9 +11,9 @@ author_profile: true
 * <b>2025</b>: Member of Chinese Society for Sport Management
 * <b>2024</b>: Member of Society of Behavioral Medicine
 * <b>2023</b>: Member of Shanghai Association of Sport Science (上海市体育科学学会)
-* <b>2020</b>: Member of European Association for Sport Management (EASM)
-* <b>2021</b>: Member of North American Society for Sport Management (NASSM)
 * <b>2022</b>: Member of DVS-Mentoring Programm (German Society of Sport Science)
+* <b>2021</b>: Member of North American Society for Sport Management (NASSM)
+* <b>2020</b>: Member of European Association for Sport Management (EASM)
 
 ## Editorial Service
 * Journal of Sports Analytics: Editorial Board Member
