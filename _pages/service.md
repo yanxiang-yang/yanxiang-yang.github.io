@@ -8,16 +8,17 @@ author_profile: true
 
 
 ## Academic Membership
-* <b>2025</b>: Member of Chinese Society for Sport Management
-* <b>2024</b>: Member of Society of Behavioral Medicine
-* <b>2023</b>: Member of Shanghai Association of Sport Science (上海市体育科学学会)
-* <b>2022</b>: Member of DVS-Mentoring Programm (German Society of Sport Science)
-* <b>2021</b>: Member of North American Society for Sport Management (NASSM)
-* <b>2020</b>: Member of European Association for Sport Management (EASM)
+* <b>2025</b>: Member, Chinese Psychological Society (Division of behavioral and health psychology)
+* <b>2025</b>: Member, Chinese Preventive Medicine Association (Division of behavior and health)
+* <b>2025</b>: Founding member, Chinese Society for Sport Management
+* <b>2024</b>: Member, Society of Behavioral Medicine
+* <b>2023</b>: Member, Shanghai Association of Sport Science
+* <b>2022</b>: Member, DVS-Mentoring Programm (German Society of Sport Science)
+* <b>2020</b>: Member, European Association for Sport Management (EASM)
 
 ## Editorial Service
-* Journal of Sports Analytics: Editorial Board Member
-* Digital Health: Editorial Review Board Member
+* Journal of Sports Analytics: Editorial board member
+* Digital Health: Editorial review board member
 
 ## Ad-hoc Reveiwer
 * Computers in Human Behavior
