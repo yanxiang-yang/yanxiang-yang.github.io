@@ -10,7 +10,7 @@ author_profile: true
 ## Academic Membership
 * <b>2025</b>: Member, Chinese Psychological Society (Division of behavioral and health psychology)
 * <b>2025</b>: Member, Chinese Preventive Medicine Association (Division of behavior and health)
-* <b>2025</b>: Founding member, Chinese Society for Sport Management
+* <b>2025</b>: Member, Chinese Society for Sport Management
 * <b>2024</b>: Member, Society of Behavioral Medicine
 * <b>2023</b>: Member, Shanghai Association of Sport Science
 * <b>2022</b>: Member, DVS-Mentoring Programm (German Society of Sport Science)
