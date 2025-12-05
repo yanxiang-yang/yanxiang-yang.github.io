@@ -17,8 +17,8 @@ author_profile: true
 * <b>2020</b>: Member, European Association for Sport Management (EASM)
 
 ## Editorial Service
-* Journal of Sports Analytics: Editorial board member
-* Digital Health: Editorial review board member
+* Journal of Sports Analytics: Associate Editor
+* Digital Health: Editorial Review Board
 
 ## Ad-hoc Reveiwer
 * Computers in Human Behavior
