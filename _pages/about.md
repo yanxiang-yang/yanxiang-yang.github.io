@@ -21,7 +21,6 @@ I am passionate about sport, particularly evening🏃 and 🎾. I am a certified
 
 * _12/2025_: I serve as an Associate Editor for Journal of Sports Analytics.
 * _09/2025_: My research was funded by the NSFC young scientists grant.
-* _07/2025_: I joined the editorial board of Journal of Sports Analytics.
 * _03/2025_: our paper entitled "Fan Attitude toward Athlete Activism for Black Lives Matter" was accepted by Journal of Sport & Social Issues.
 * _01/2025_: I was involved in the Shanghai overseas high-level talent plan.
 * _01/2025_: our paper entitled “A machine learning approach to understanding performance of Canadian nonprofit sport organizations” was accepted by Nonprofit Management & Leadership.
