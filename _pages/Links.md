@@ -6,8 +6,9 @@ author_profile: true
 ---
 {% include base_path %}
 
-## Awards, Funding, Scholarships
+## Awards & Scholarships
 
+* <b>2025</b>: Shanghai overseas high-level talent plan
 * <b>2024</b>: Pujiang scholar
 * <b>11/2023</b>: Certificate of the "dvs-Mentoring Programm for Young Scientists" of the German Society of Sport Science.
 * <b>10/2023</b>: Annual performance awards (Gewährung einer leistungsprämie, Der Präsident), Technical University of Munich.
