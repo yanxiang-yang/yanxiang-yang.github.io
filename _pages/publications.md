@@ -31,6 +31,13 @@ My main research line focuses on <b>sport, gamification, and health management</
 12. <b>Yanxiang Yang</b>, Moritz Schumann, Shenglong Le, and Shulin Cheng (2018): Reliability and validity of a new accelerometer-based device for detecting physical activities and energy expenditure. <i>PeerJ</i>. 6: e5775. [DOI](https://peerj.com/articles/5775/)
 
 
+## Grants
+
+* <I>2025</I>: PI: NSFC young scientists grant, RMB 300,000.
+* <I>2024</I>: PI: Shanghai pujiang program, RMB 150,000.
+* <I>2024</I>: PI: SJTU faculty initiative grant, RMB 200,000.
+
+
 ## Conference Proceedings
 
 * <b>Yanxiang Yang</b> and Joerg Koenigstorfer. “Physical activity intentions depending on individual ranks in smartphone app leaderboards”. 31st European Association for Sport Management Conference, Belfast, Northern Ireland. 09/12/2023 - 09/15/2023. Oral presentation.([The Big Fish](https://yanxiang-yang.github.io/images/belfast1.jpg), [City Hall](https://yanxiang-yang.github.io/images/belfast2.jpg))
