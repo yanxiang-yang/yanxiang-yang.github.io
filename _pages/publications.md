@@ -33,9 +33,9 @@ My main research line focuses on <b>sport, gamification, and health management</
 
 ## Grants
 
-* <I>2025</I>: PI: NSFC young scientists grant, RMB 300,000.
-* <I>2024</I>: PI: Shanghai pujiang program, RMB 150,000.
-* <I>2024</I>: PI: SJTU faculty initiative grant, RMB 200,000.
+* <I>2025</I>: PI: NSFC young scientists grant.
+* <I>2024</I>: PI: Shanghai pujiang program.
+* <I>2024</I>: PI: SJTU faculty initiative grant.
 
 
 ## Conference Proceedings
