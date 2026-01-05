@@ -28,6 +28,7 @@ author_profile: true
 * International Journal of Human-Computer Studies
 * eClinicalMedicine
 * Telematics and Informatics
+* npj Digital Medicine
 * Digital Health
 * Journal of Medical Internet Research
 * JMIR mHealth and uHealth
