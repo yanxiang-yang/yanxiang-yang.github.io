@@ -19,6 +19,7 @@ I am passionate about sport, particularly evening🏃 and 🎾. I am a certified
 
 ## Updates
 
+* _01/2026_: I was awarded the '教育部直属高等工业学校体育工作先进个人'.
 * _12/2025_: I serve as an Associate Editor for Journal of Sports Analytics.
 * _09/2025_: My research was funded by the NSFC young scientists grant.
 * _03/2025_: our paper entitled "Fan Attitude toward Athlete Activism for Black Lives Matter" was accepted by Journal of Sport & Social Issues.
