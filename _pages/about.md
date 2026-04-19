@@ -19,6 +19,7 @@ I am passionate about sport, particularly evening🏃 and 🎾. I am a certified
 
 ## Updates
 
+* _04/2026_: Two abstracts were accepted by European College of Sport Science (ECSS) 2026, Lausanne, Switzerland.
 * _01/2026_: I was awarded 2025教育部直属高等工业学校体育工作先进个人.
 * _12/2025_: I serve as an Associate Editor for Journal of Sports Analytics.
 * _09/2025_: My research was funded by the NSFC young scientists grant.
