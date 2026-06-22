@@ -18,6 +18,7 @@ author_profile: true
 
 ## Editorial Service
 * Journal of Sports Analytics: Associate Editor
+* Sage Open: Associate Editor (section: Sport and Physical Activity)
 * Digital Health: Editorial Review Board
 
 ## Ad-hoc Reveiwer
