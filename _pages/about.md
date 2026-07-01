@@ -19,10 +19,10 @@ I am passionate about sport, particularly evening🏃 and 🎾. I am a certified
 
 ## Updates
 
-* _06/2026_: I serve as an Associate Editor for Sage Open.
+* _06/2026_: I serve as an Associate Editor of Sage Open.
 * _04/2026_: Two abstracts were accepted by The 31st Annual Congress of ECSS, Lausanne, Switzerland.
 * _01/2026_: I was awarded 2025教育部直属高等工业学校体育工作先进个人.
-* _12/2025_: I serve as an Associate Editor for Journal of Sports Analytics.
+* _12/2025_: I serve as an Associate Editor of Journal of Sports Analytics.
 * _09/2025_: Master's student Mr. Changchun Li (B.S. from Beijing Sport University) has joined the team.
 * _09/2025_: My research was funded by the NSFC young scientists grant (国自然青年基金C).
 * _03/2025_: our paper entitled "Fan Attitude toward Athlete Activism for Black Lives Matter" was accepted by Journal of Sport & Social Issues.
