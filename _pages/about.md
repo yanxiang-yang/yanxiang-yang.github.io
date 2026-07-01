@@ -26,9 +26,9 @@ I am passionate about sport, particularly evening🏃 and 🎾. I am a certified
 * _09/2025_: Master's student Mr. Changchun Li (B.S. from Beijing Sport University) has joined the team.
 * _09/2025_: My research was funded by the NSFC young scientists grant (国自然青年基金C).
 * _03/2025_: our paper entitled "Fan Attitude toward Athlete Activism for Black Lives Matter" was accepted by Journal of Sport & Social Issues.
-* _01/2025_: I was involved in the Shanghai overseas high-level talent plan.
+* _2025_: I was involved in the Shanghai overseas high-level talent plan (市海外高层次青年人才计划).
 * _01/2025_: our paper entitled “A machine learning approach to understanding performance of Canadian nonprofit sport organizations” was accepted by Nonprofit Management & Leadership.
-* _12/2024_: my research was funded by the pujiang program (浦江人才).
+* _2024_: my research was funded by the pujiang program (浦江人才).
 * _12/2024_: our paper entitled “The curvilinear effects of relative positions in smartphone App leaderboards on physical activity” was accepted by Computers in Human Behavior.
 * _10/2024_: I joined the editorial review board of Digital Health.
 * _01/2024_: I started as a Tenure-Track Assistant Professor of Sport and Health Management at SJTU, I am excited about this new adventure.
