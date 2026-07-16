@@ -44,8 +44,8 @@ My research line focuses on <b> sport, gamification, and health management</b>. 
 
 ## Conference Proceedings
 
-* Changchun Li* and <b>Yanxiang Yang</b>. “Systematic Identification and User Prioritization of Age-Friendly Health and Fitness App Features: A Mixed-Methods Approach”. ECSS, Lausanne, Switzerland. 07/2026. Poster. (*master's student)
-* <b>Yanxiang Yang</b>. “Non-Monotonic Effects of Leaderboard Design and Users’ Social Comparison Orientation on Physical Activity”. ECSS, (Lausanne)[https://yanxiang-yang.github.io/images/lausanne.jpg], Switzerland. 07/2026. Oral presentation. (A collabrated work with Prof. Joerg Koenigstorfer)
+* Changchun Li and <b>Yanxiang Yang</b>. “Systematic Identification and User Prioritization of Age-Friendly Health and Fitness App Features: A Mixed-Methods Approach”. ECSS, Lausanne, Switzerland. 07/2026. Poster. (CL is a master's student)
+* <b>Yanxiang Yang</b>. “Non-Monotonic Effects of Leaderboard Design and Users’ Social Comparison Orientation on Physical Activity”. ECSS, [Lausanne](https://yanxiang-yang.github.io/images/lausanne.jpg), Switzerland. 07/2026. Oral presentation. (A collabrated work with Prof. Dr. Joerg Koenigstorfer)
 * <b>Yanxiang Yang</b> and Joerg Koenigstorfer. “Physical activity intentions depending on individual ranks in smartphone app leaderboards”. 31st European Association for Sport Management Conference, Belfast, Northern Ireland. 09/12/2023 - 09/15/2023. Oral presentation.([The Big Fish](https://yanxiang-yang.github.io/images/belfast1.jpg), [City Hall](https://yanxiang-yang.github.io/images/belfast2.jpg))
 * <b>Yanxiang Yang</b>, Keshav Gupta, Thilo Kunkel, Daniel Funk, & Joerg Koenigstorfer. "Gamification implementations in professional team sport apps". The North American Society for Sport Management Conference. Montréal, Canada. 05/31/2023 - 06/03/2023. Oral presentation.
 * <b>Yanxiang Yang</b>, Terri Byers, and Joerg Koenigstorfer. “Determinants of the Performance of Not-for-profit Sport Clubs: A Machine Learning Approach”. 30th European Sport Management Conference, Innsbruck, Austria. 09/04/2022 - 09/08/2022. Oral presentation.
