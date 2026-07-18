@@ -10,7 +10,7 @@ author_profile: true
 ## Academic Membership
 * <b>2025</b>: Member, Chinese Psychological Society (Division of behavioral and health psychology)
 * <b>2025</b>: Member, Chinese Preventive Medicine Association (Division of behavior and health)
-* <b>2025</b>: Member, Chinese Society for Sport Management
+* <b>2025</b>: Member & Student Initiative Co-Chair, Chinese Society for Sport Management
 * <b>2024</b>: Member, Society of Behavioral Medicine
 * <b>2023</b>: Member, Shanghai Association of Sport Science
 * <b>2022</b>: Member, DVS-Mentoring Programm (German Society of Sport Science)
@@ -22,6 +22,7 @@ author_profile: true
 * Digital Health: Editorial Review Board
 
 ## Ad-hoc Reveiwer
+* npj Digital Medicine
 * Computers in Human Behavior
 * Translational Behavioral Medicine
 * Behaviour & Information Technology
@@ -29,14 +30,13 @@ author_profile: true
 * International Journal of Human-Computer Studies
 * eClinicalMedicine
 * Telematics and Informatics
-* npj Digital Medicine
-* Digital Health
 * Journal of Medical Internet Research
 * JMIR mHealth and uHealth
 * JMIR Serious Games
+* Digital Health
 * BMC Digital Health
 * Computers in Human Behavior Reports
-* Scientific Reports
+* Sport Sciences for Health
 * European Sport Management Quarterly
 * Applied Economics
 * Journal of Sports Analytics
@@ -45,6 +45,7 @@ author_profile: true
 * Journal of Global Sport Management
 * Marketing ZFP - Journal of Research and Management
 * Journal of Promotion Management
+* Scientific Reports
 * EASM 2022 Conference Abstract reviewer
 
 ## Community Service
