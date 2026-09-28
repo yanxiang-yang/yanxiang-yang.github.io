@@ -19,6 +19,7 @@ I am passionate about sport, particularly evening🏃 and 🎾. I am a certified
 
 ## Updates
 
+* _09/2026_: Master's student Mr. Yueyang Hu (B.M. from School of Management Beijing Sport University) has joined the team.
 * _06/2026_: I serve as an Associate Editor of Sage Open.
 * _04/2026_: Two abstracts were accepted by The 31st Annual Congress of ECSS, Lausanne, Switzerland.
 * _01/2026_: I was awarded 2025教育部直属高等工业学校体育工作先进个人.
