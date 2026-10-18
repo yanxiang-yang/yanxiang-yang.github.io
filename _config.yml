@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yanxiang Yang, Ph.D."
+  name             : "Yanxiang Yang, PhD"
   avatar           : "yanxiang24.jpg"
   bio              : "Assistant Professor in Sport, Gamification, and Health Management"
   location         : "Shanghai, China"
   employer         :
   pubmed           : # "https://www.sg.tum.de/en/mgt/team/research-assistants/personal-information-yanxiang-yang/"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=SJd5HBoAAAAJ&view_op=list_works&sortby=pubdate"
+  googlescholar    : # "https://scholar.google.com/citations?hl=en&user=SJd5HBoAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
   researchgate     : # "https://www.researchgate.net/profile/Yanxiang-Yang"
   uri              :
