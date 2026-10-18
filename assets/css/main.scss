@@ -39,27 +39,22 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+/* Locally hosted Jost font */
 @font-face {
-  font-family: "Neutra Text";
-  src: url("../fonts/neutra-text-medium.woff2") format("woff2");
-  font-weight: 500;
+  font-family: "Jost";
+  src: url("/assets/fonts/jost-variable.ttf") format("truetype");
+  font-weight: 100 900;
   font-style: normal;
   font-display: swap;
 }
 
-@font-face {
-  font-family: "Neutra Text";
-  src: url("../fonts/neutra-text-bold.woff2") format("woff2");
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
-
+/* Body text */
 body {
-  font-weight: 500;
+  font-weight: 400;
 }
 
+/* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 700;
+  font-weight: 600;
   text-transform: capitalize;
 }
