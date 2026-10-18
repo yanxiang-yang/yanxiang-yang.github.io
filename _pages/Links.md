@@ -8,6 +8,7 @@ author_profile: true
 
 ## Awards & Scholarships
 
+* <b>2026</b>: 教育部直属高等工业学校体育工作先进个人
 * <b>2025</b>: Shanghai overseas high-level talent plan
 * <b>2024</b>: Pujiang scholar
 * <b>11/2023</b>: Certificate of the "dvs-Mentoring Programm for Young Scientists" of the German Society of Sport Science.
@@ -31,8 +32,8 @@ author_profile: true
 
 ## PhD Training Activities @TUM
 
-* <b>01/2023 - </b>: PhD Course "Web Scraping for Scientists: An Introduction with Python". By Prof. Dr. Jens Förderer (TUM). 22.5 hours.
-* <b>12/2022 - </b>: PhD Course "Qualitative Research". By Prof. Dr. Frank-Martin Belz (TUM). 22.5 hours.
+* <b>01/2023</b>: PhD Course "Web Scraping for Scientists: An Introduction with Python". By Prof. Dr. Jens Förderer (TUM). 22.5 hours.
+* <b>12/2022</b>: PhD Course "Qualitative Research". By Prof. Dr. Frank-Martin Belz (TUM). 22.5 hours.
 * <b>10/2022 - 12/2022</b>: PhD Course "Efficient Academic Writing". By Prof. Dr. Chengguang Li (TUM). 22.5 hours.
 * <b>11/28/2022</b>: TUM School of Management Research Fest and Poster Competition.
 * <b>05/05/2022</b>: TUM Research Seminar "Value and Complexity in New Ventures". By Prof. Andy Wu (Harvard Business School).
