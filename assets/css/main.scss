@@ -59,17 +59,21 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: capitalize;
   color: #00407A;
 }
-.scholar-citation {
+.scholar-citation,
+.scholar-citation:hover,
+.scholar-citation:focus,
+.scholar-citation:visited {
   display: inline-flex;
   align-items: center;
-  gap: 5px;
+  gap: 4px;
   margin-left: 5px;
-  padding: 3px 7px;
+  padding: 0;
   vertical-align: middle;
   white-space: nowrap;
-  background-color: #E2EBCF;
-  border: 1px solid #BCCDA0;
-  border-radius: 5px;
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
   text-decoration: none;
 }
 
@@ -85,12 +89,5 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 14px;
   font-weight: 600;
   line-height: 1;
-  font-variant-numeric: tabular-nums;
-}
-
-.scholar-citation:hover,
-.scholar-citation:focus-visible {
-  background-color: #D3E1B8;
-  border-color: #A4BD83;
   text-decoration: none;
 }
