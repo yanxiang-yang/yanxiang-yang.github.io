@@ -22,31 +22,31 @@ author_profile: true
 * Digital Health: Editorial Review Board
 
 ## Ad-hoc Reveiwer
-* npj Digital Medicine
-* Computers in Human Behavior
-* Translational Behavioral Medicine
-* Behaviour & Information Technology
-* International Journal of Human-Computer Interaction
-* International Journal of Human-Computer Studies
-* eClinicalMedicine
-* Telematics and Informatics
-* Journal of Medical Internet Research
-* JMIR mHealth and uHealth
-* JMIR Serious Games
-* Digital Health
-* BMC Digital Health
-* Computers in Human Behavior Reports
-* Sport Sciences for Health
-* European Sport Management Quarterly
-* Applied Economics
-* Journal of Sports Analytics
-* Nonprofit Management and Leadership
-* International Journal of Sports Marketing and Sponsorship
-* Journal of Global Sport Management
-* Marketing ZFP - Journal of Research and Management
-* Journal of Promotion Management
-* Scientific Reports
+* npj Digital Medicine (1)
+* Computers in Human Behavior (3)
+* Translational Behavioral Medicine (2)
+* Behaviour & Information Technology (1)
+* International Journal of Human-Computer Interaction (2)
+* International Journal of Human-Computer Studies (1)
+* eClinicalMedicine (1)
+* Telematics and Informatics (2)
+* Journal of Medical Internet Research (4)
+* JMIR mHealth and uHealth (5)
+* JMIR Serious Games (2)
+* Digital Health (4)
+* BMC Digital Health (1)
+* Computers in Human Behavior Reports (2)
+* Sport Sciences for Health (1)
+* European Sport Management Quarterly (3)
+* Applied Economics (2)
+* Journal of Sports Analytics (2)
+* Nonprofit Management and Leadership (3)
+* International Journal of Sports Marketing and Sponsorship (1)
+* Journal of Global Sport Management (2)
+* Marketing ZFP - Journal of Research and Management (2)
+* Journal of Promotion Management (1)
+* Scientific Reports (2)
 * EASM 2022 Conference Abstract reviewer
 
 ## Community Service
-* _07/11/2024_: 体育系师生党员“冠军进洱源”体育帮扶实践活动走进校园
+* _07/11/2024_. 体育系师生党员“冠军进洱源”体育帮扶实践活动走进校园
