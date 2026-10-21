@@ -16,5 +16,5 @@
 {%- when "brand-positioning" -%}{%- assign count = "19" -%}
 {%- endcase -%}
 {%- if paper and paper.url != empty -%}
-<a class="scholar-citation" href="{{ paper.url | escape }}" title="Google Scholar citations — manually updated"><img class="scholar-icon" src="{{ '/images/google-scholar.ico' | relative_url }}" alt="Google Scholar"><span class="scholar-number">{{ count }}</span></a>
+<span class="scholar-citation"><a href="{{ paper.url | escape }}" title="View Google Scholar citations" style="text-decoration:none;border:0;box-shadow:none;"><img class="scholar-icon" src="{{ '/images/google-scholar.ico' | relative_url }}" alt="Google Scholar"></a><span class="scholar-number">{{ count }}</span></span>
 {%- endif -%}
