@@ -1,0 +1,14 @@
+{% assign papers = site.data["citation-papers"] %}
+{% assign paper = papers | where: "id", include.id | first %}
+{% if paper and paper.url != empty %}
+<a class="scholar-citation"
+   href="{{ paper.url | escape }}"
+   title="View this paper's citations on Google Scholar">
+  <img class="scholar-icon"
+       src="{{ '/images/google-scholar.ico' | relative_url }}"
+       alt="Google Scholar">
+  <img class="scholar-count"
+       src="https://raw.githubusercontent.com/yanxiang-yang/yanxiang-yang.github.io/master/assets/citations/{{ include.id }}.svg"
+       alt="Citation count">
+</a>
+{% endif %}
