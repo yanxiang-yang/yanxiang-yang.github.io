@@ -2,18 +2,18 @@
 {%- assign paper = papers | where: "id", include.id | first -%}
 {%- assign count = "" -%}
 {%- case include.id -%}
-{%- when "leaderboards" -%}{%- assign count = "" -%}
-{%- when "gamification-review" -%}{%- assign count = "" -%}
-{%- when "fitness-app-usage" -%}{%- assign count = "" -%}
-{%- when "activity-maintenance" -%}{%- assign count = "" -%}
-{%- when "interwalk" -%}{%- assign count = "" -%}
-{%- when "exercise-executive-function" -%}{%- assign count = "" -%}
-{%- when "accelerometer" -%}{%- assign count = "" -%}
-{%- when "transfer-fees" -%}{%- assign count = "" -%}
-{%- when "nonprofit-organizations" -%}{%- assign count = "" -%}
-{%- when "athlete-activism" -%}{%- assign count = "" -%}
-{%- when "human-rights" -%}{%- assign count = "" -%}
-{%- when "brand-positioning" -%}{%- assign count = "" -%}
+{%- when "leaderboards" -%}{%- assign count = "6" -%}
+{%- when "gamification-review" -%}{%- assign count = "37" -%}
+{%- when "fitness-app-usage" -%}{%- assign count = "131" -%}
+{%- when "activity-maintenance" -%}{%- assign count = "192" -%}
+{%- when "interwalk" -%}{%- assign count = "29" -%}
+{%- when "exercise-executive-function" -%}{%- assign count = "426" -%}
+{%- when "accelerometer" -%}{%- assign count = "57" -%}
+{%- when "transfer-fees" -%}{%- assign count = "17" -%}
+{%- when "nonprofit-organizations" -%}{%- assign count = "1" -%}
+{%- when "athlete-activism" -%}{%- assign count = "1" -%}
+{%- when "human-rights" -%}{%- assign count = "28" -%}
+{%- when "brand-positioning" -%}{%- assign count = "19" -%}
 {%- endcase -%}
 {%- if paper and paper.url != empty -%}
 <a class="scholar-citation" href="{{ paper.url | escape }}" title="Google Scholar citations — manually updated"><img class="scholar-icon" src="{{ '/images/google-scholar.ico' | relative_url }}" alt="Google Scholar"><span class="scholar-number">{{ count }}</span></a>
