@@ -8,26 +8,43 @@ author_profile: true
 
 ## Awards & Scholarships
 
-* 2026: 教育部直属高等工业学校体育工作先进个人
-* 2025: Shanghai overseas high-level talent plan
-* 2024: Pujiang scholar
-* 11/2023: dvs-Mentoring Programm for Young Scientists. German Society of Sport Science
-* 10/2023: Annual performance awards (Gewährung einer leistungsprämie, Der Präsident), Technical University of Munich
-* 11/2022: Zertifikat Hochschullehre (Certificate for Teaching in Higher Education of Bavarian Universities). TUM ProfiLehre
-* 10/2022 - 10/2023: Research Excellence & Academic Training Program, TUM School of Management, TUM. 1,500 EUR/month
-* 2022: Marie Skłodowska-Curie Mobility Fellowship
-* 04/2022 - 10/2022: EU Horizon 2020 programme EventRights, Research and Innovation Staff Exchange. 12,600 EUR mobility funding and 10,800 EUR research funding (PI: Prof. Jörg Königstorfer)
-* 09/2021: Annual performance awards (Gewährung einer leistungsprämie, Der Präsident), Technical University of Munich. 2,335 EUR
-* 2019/11: Research Associate (fully funded PhD position, E13 TV-L), Techincal University of Munich, Germany [Accepted]
-* 2019/09: Fully funded PhD scholarship, The University of Queensland, Australia [Declined]
-* 2019/08: Fully funded PhD scholarship, Deakin University, Australia [Declined]
-* 2019/08: Research Associate (fully funded PhD position), University of Jyväskylä, Finland [Declined]
-* 2019: Honors Postgraduate Student, Shanghai Jiao Tong University
-* 09/2018 - 03/2019: The long-term Danish Government Scholarships under Cultural Agreements with China Scholarship Council. 60,000 DKK
-* 05/2018 - 08/2018: DAAD German short-term scholarships for master students. 3,100 EUR
-* 2017: Outstanding Graduate Student, Shanghai Jiao Tong University
-* 09/2016 - 06/2019: First-class Scholarship for Academic Excellence (3 consecutive years), Shanghai Jiao Tong University
-* 2016: Shanghai Tennis Competition for College Students Men’s team bronze medal, East China University of Science and Technology Division
+### 2025
+* 教育部直属高等工业学校体育工作先进个人
+* Shanghai overseas high-level talent plan
+
+### 2024
+* Pujiang scholar
+
+### 2023
+* dvs-Mentoring Programm for Young Scientists. German Society of Sport Science
+* Annual performance awards (Gewährung einer leistungsprämie, Der Präsident), Technical University of Munich
+
+### 2022
+* Zertifikat Hochschullehre (Certificate for Teaching in Higher Education of Bavarian Universities). TUM ProfiLehre
+* Research Excellence & Academic Training Program, TUM School of Management, TUM. 1,500 EUR/month
+* Marie Skłodowska-Curie Mobility Fellowship
+* EU Horizon 2020 programme EventRights, Research and Innovation Staff Exchange. 12,600 EUR mobility funding and 10,800 EUR research funding (PI: Prof. Jörg Königstorfer)
+
+### 2021
+* Annual performance awards (Gewährung einer leistungsprämie, Der Präsident), Technical University of Munich. 2,335 EUR
+
+### 2019
+* Research Associate (fully funded PhD position, E13 TV-L), Techincal University of Munich, Germany [Accepted]
+* Fully funded PhD scholarship, The University of Queensland, Australia [Declined]
+* Fully funded PhD scholarship, Deakin University, Australia [Declined]
+* Research Associate (fully funded PhD position), University of Jyväskylä, Finland [Declined]
+* Honors Postgraduate Student, Shanghai Jiao Tong University
+
+### 2018
+* The long-term Danish Government Scholarships under Cultural Agreements with China Scholarship Council. 60,000 DKK
+* DAAD German short-term scholarships for master students. 3,100 EUR
+
+### 2017
+* Outstanding Graduate Student, Shanghai Jiao Tong University
+
+### 2016
+* First-class Scholarship for Academic Excellence (3 consecutive years, 2016-2019), SJTU
+* Shanghai Tennis Competition for College Students Men’s team bronze medal, East China University of Science and Technology Division
 
 ## PhD Training Activities @TUM
 
