@@ -1,16 +1,20 @@
-{%- assign doi = "" -%}
+{%- assign papers = site.data["citation-papers"] -%}
+{%- assign paper = papers | where: "id", include.id | first -%}
+{%- assign count = "" -%}
 {%- case include.id -%}
-{%- when "leaderboards" -%}{%- assign doi = "10.1016/j.chb.2024.108532" -%}
-{%- when "gamification-review" -%}{%- assign doi = "10.1016/j.amepre.2021.10.005" -%}
-{%- when "fitness-app-usage" -%}{%- assign doi = "10.2196/26063" -%}
-{%- when "activity-maintenance" -%}{%- assign doi = "10.1093/tbm/ibaa086" -%}
-{%- when "interwalk" -%}{%- assign doi = "10.2196/30602" -%}
-{%- when "exercise-executive-function" -%}{%- assign doi = "10.1136/bjsports-2018-099825" -%}
-{%- when "accelerometer" -%}{%- assign doi = "10.7717/peerj.5775" -%}
-{%- when "transfer-fees" -%}{%- assign doi = "10.1080/16184742.2022.2153898" -%}
-{%- when "nonprofit-organizations" -%}{%- assign doi = "10.1002/nml.21651" -%}
-{%- when "athlete-activism" -%}{%- assign doi = "10.1177/01937235251334584" -%}
-{%- when "human-rights" -%}{%- assign doi = "10.3727/152599522X16419948695323" -%}
-{%- when "brand-positioning" -%}{%- assign doi = "10.1123/jsm.2020-0426" -%}
+{%- when "leaderboards" -%}{%- assign count = "" -%}
+{%- when "gamification-review" -%}{%- assign count = "" -%}
+{%- when "fitness-app-usage" -%}{%- assign count = "" -%}
+{%- when "activity-maintenance" -%}{%- assign count = "" -%}
+{%- when "interwalk" -%}{%- assign count = "" -%}
+{%- when "exercise-executive-function" -%}{%- assign count = "" -%}
+{%- when "accelerometer" -%}{%- assign count = "" -%}
+{%- when "transfer-fees" -%}{%- assign count = "" -%}
+{%- when "nonprofit-organizations" -%}{%- assign count = "" -%}
+{%- when "athlete-activism" -%}{%- assign count = "" -%}
+{%- when "human-rights" -%}{%- assign count = "" -%}
+{%- when "brand-positioning" -%}{%- assign count = "" -%}
 {%- endcase -%}
-<a class="scholar-citation" href="https://doi.org/{{ doi }}" title="Citation count from Crossref"><span aria-hidden="true">↗</span><img class="scholar-count" src="https://raw.githubusercontent.com/yanxiang-yang/yanxiang-yang.github.io/citation-data/assets/citations/{{ include.id }}.svg" alt="Crossref citation count"></a>
+{%- if paper and paper.url != empty -%}
+<a class="scholar-citation" href="{{ paper.url | escape }}" title="Google Scholar citations — manually updated"><img class="scholar-icon" src="{{ '/images/google-scholar.ico' | relative_url }}" alt="Google Scholar"><span class="scholar-number">{{ count }}</span></a>
+{%- endif -%}
