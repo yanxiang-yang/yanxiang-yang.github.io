@@ -41,9 +41,9 @@ My research keywords are:
 
 ## Grants
 
-* <I>2026.01 - 2028.12</I>: Principal Investigator: National Natural Science Foundation of China (¥300k)
-* <I>2025.01 - 2027.12</I>: Principal Investigator: Shanghai Pujiang Talents Plan (¥150k)
-* <I>2024.01 - 2026.12</I>: Principal Investigator: SJTU Faculty Initiative Grant (¥200k)
+* <I>2026.01 - 2028.12</I>. Principal Investigator. National Natural Science Foundation of China (¥300k)
+* <I>2025.01 - 2027.12</I>. Principal Investigator. Shanghai Pujiang Talents Plan (¥150k)
+* <I>2024.01 - 2026.12</I>. Principal Investigator. SJTU Faculty Initiative Grant (¥200k)
 
 
 ## Conference Proceedings
