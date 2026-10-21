@@ -1,57 +1,57 @@
-import json
 import re
 import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import quote
 
 import requests
-from bs4 import BeautifulSoup
 
-papers = json.loads(
-    Path("_data/citation-papers.json").read_text(encoding="utf-8")
-)
+# Your publication IDs remain unchanged.
+papers = {
+    "leaderboards": "10.1016/j.chb.2024.108532",
+    "gamification-review": "10.1016/j.amepre.2021.10.005",
+    "fitness-app-usage": "10.2196/26063",
+    "activity-maintenance": "10.1093/tbm/ibaa086",
+    "interwalk": "10.2196/30602",
+    "exercise-executive-function": "10.1136/bjsports-2018-099825",
+    "accelerometer": "10.7717/peerj.5775",
+    "transfer-fees": "10.1080/16184742.2022.2153898",
+    "nonprofit-organizations": "10.1002/nml.21651",
+    "athlete-activism": "10.1177/01937235251334584",
+    "human-rights": "10.3727/152599522X16419948695323",
+    "brand-positioning": "10.1123/jsm.2020-0426",
+}
 
 output_dir = Path("assets/citations")
 output_dir.mkdir(parents=True, exist_ok=True)
 
 session = requests.Session()
-session.headers["User-Agent"] = "Mozilla/5.0"
+session.headers.update({
+    "User-Agent": (
+        "AcademicWebsiteCitationUpdater/1.0 "
+        "(https://yanxiang-yang.github.io)"
+    )
+})
 
 failed = []
 
-for paper in papers:
-    paper_id = paper["id"]
-    url = paper["url"].strip()
-
-    if not url:
-        print(f"Skipped {paper_id}: no URL supplied.")
-        continue
-
+for paper_id, doi in papers.items():
     try:
-        response = session.get(url, timeout=30)
+        response = session.get(
+            f"https://api.crossref.org/works/{quote(doi, safe='')}",
+            timeout=30,
+        )
         response.raise_for_status()
-        soup = BeautifulSoup(response.text, "html.parser")
+        metadata = response.json()["message"]
 
-        if not soup.select_one("#gsc_oci_title"):
-            raise ValueError("Article page unavailable or blocked.")
-
-        count = None
-
-        for link in soup.select('a[href*="cites="]'):
-            match = re.fullmatch(
-                r"Cited by\s+([\d,]+)",
-                link.get_text(" ", strip=True),
-            )
-
-            if match:
-                count = int(match.group(1).replace(",", ""))
-                break
-
-        if count is None:
-            raise ValueError(
-                "Count unavailable; previous value retained."
-            )
+        count = metadata.get("is-referenced-by-count")
+        if (
+            not isinstance(count, int)
+            or isinstance(count, bool)
+            or count < 0
+        ):
+            raise ValueError("Valid citation count unavailable.")
 
         updated = datetime.now(timezone.utc).strftime("%Y-%m-%d")
         label = f"{count:,}"
@@ -59,8 +59,8 @@ for paper in papers:
 
         svg = f"""<svg xmlns="http://www.w3.org/2000/svg"
  width="{width}" height="20" role="img"
- aria-label="{count} Google Scholar citations">
- <title>{count} Google Scholar citations;
+ aria-label="{count} Crossref citations">
+ <title>{count} Crossref citations;
  checked {updated} UTC</title>
  <text x="1" y="15" font-family="Arial,sans-serif"
   font-size="14" fill="#00407A">{label}</text>
@@ -77,7 +77,7 @@ for paper in papers:
         failed.append(paper_id)
         print(f"Failed {paper_id}: {error}")
 
-    time.sleep(5)
+    time.sleep(1)
 
 if failed:
     print("Failed papers:", ", ".join(failed))
