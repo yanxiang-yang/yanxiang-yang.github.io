@@ -59,3 +59,26 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: capitalize;
   color: #00407A;
 }
+.scholar-citation {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  margin-left: 5px;
+  vertical-align: middle;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.scholar-citation .scholar-icon {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin: 0;
+}
+
+.scholar-citation .scholar-count {
+  display: inline-block;
+  width: auto;
+  height: 20px;
+  margin: 0;
+}
