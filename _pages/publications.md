@@ -14,9 +14,9 @@ My research has been supported by National Natural Science Foundation of China a
 
 My research keywords are:
 * Gamification
-* Digital-physical interplay
-* Sport, gamification, and health management
-* Sports behavioral analytics
+* Digital-Physical Interplay
+* Sport, Gamification, and Health Management
+* Sports Behavioral Analytics
 
 
 ## Selected Journal Publications
