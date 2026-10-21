@@ -38,10 +38,24 @@ jobs:
           if [ ! -d assets/citations ]; then
             exit 0
           fi
+
+          cp -R assets/citations "$RUNNER_TEMP/citation-output"
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git ls-remote --exit-code --heads origin citation-data; then
+            git fetch origin citation-data
+            git checkout -B citation-data origin/citation-data
+          else
+            git checkout -b citation-data
+          fi
+
+          mkdir -p assets/citations
+          cp -R "$RUNNER_TEMP/citation-output/." assets/citations/
+
           git add assets/citations/
           if ! git diff --cached --quiet; then
             git commit -m "Update publication citation counts"
-            git push
+            git push origin citation-data
           fi
