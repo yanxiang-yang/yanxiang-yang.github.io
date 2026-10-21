@@ -91,3 +91,17 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   text-decoration: none;
 }
+.scholar-citation {
+  align-items: center;
+}
+
+.scholar-citation > a {
+  display: inline-flex;
+  align-items: center;
+  line-height: 1;
+}
+
+.scholar-citation .scholar-icon {
+  display: block;
+  transform: translateY(-1px);
+}
