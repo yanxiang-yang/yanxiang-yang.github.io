@@ -8,9 +8,11 @@ author_profile: true
 {% include base_path %}
 
 ## Research Interests
-My research line focuses on _sport, gamification, and health management (游戏化运动健康管理)_. In particular, my research seeks to understand how gamified digital health and fitness systems interact with individuals to promote physical activity and health behaviors. I am also interested in topics of _sports behavioral analytics_. 
+My research line focuses on _sport, gamification, and health management (游戏化运动健康管理)_. In particular, my research seeks to understand how gamified digital health and fitness systems interact with individuals to promote physical activity and health behaviors. I am also interested in topics of _sports behavioral analytics_; and I serve as an Associate Editor of Journal of Sports Analytics.
 
-Our work has appeared in renowned journals such as Computers in Human Behavior, American Journal of Preventive Medicine, Journal of Medical Internet Research, European Sport Management Quarterly, Journal of Sport Management, Nonprofit Management and Leadership, among others. My research keywords are:
+My research has been supported by National Natural Science Foundation of China and Shanghai Pujiang Talent Plan. Our work has appeared in renowned journals such as Computers in Human Behavior, American Journal of Preventive Medicine, Journal of Medical Internet Research, European Sport Management Quarterly, Journal of Sport Management, Nonprofit Management and Leadership, among others. 
+
+My research keywords are:
 * Gamification
 * Digital-physical interplay
 * Sport, gamification, and health management
