@@ -64,9 +64,11 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   gap: 3px;
   margin-left: 5px;
+  padding-bottom: 2px;
   vertical-align: middle;
-  text-decoration: none;
   white-space: nowrap;
+  text-decoration: none;
+  border-bottom: 1px solid #8B0000;
 }
 
 .scholar-citation .scholar-icon {
@@ -76,14 +78,8 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
 }
 
-.scholar-citation .scholar-count {
-  display: inline-block;
-  width: auto;
-  height: 20px;
-  margin: 0;
-}
 .scholar-citation .scholar-number {
-  color: #00407A;
+  color: #8B0000;
   font-size: 14px;
   font-weight: 500;
   line-height: 1;
