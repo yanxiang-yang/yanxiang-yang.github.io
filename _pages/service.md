@@ -45,6 +45,7 @@ author_profile: true
 * Journal of Global Sport Management (2)
 * Marketing ZFP - Journal of Research and Management (2)
 * Journal of Promotion Management (1)
+* Humanities and Social Sciences Communications (1)
 * Scientific Reports (2)
 * EASM 2022 Conference Abstract reviewer
 
